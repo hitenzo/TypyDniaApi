@@ -1,0 +1,543 @@
+{
+	"DayDate": "2016-11-07T00:00:00",
+	"Posts": [{
+		"Author": {
+			"Login": "Power30",
+			"JoinedDate": "2008-05-01T00:00:00",
+			"PostsCount": 491,
+			"Reputation": 583
+		},
+		"CreatedPostDate": "2016-11-16T17:42:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T22:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.8,
+			"Branch": "Piłka Nożna - Australia, A-League",
+			"Analyse": "Prosimy                      kopiować                            powyższy schemat                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   podawania                                   typów      i                                                                                                                                                                                                  bezwzględnie                                się                                                                                          do                                                                                                                                                        niego                                                                                                                                                                                                            stosować.                                      \nPo pierwsze, ułatwi to sprawę zarówno uczestnikom konkursu (w podawaniu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      typów),                                             jak            i                                                                                                                                                                     prowadzącym                                         (w                                                               ich                                                                                                                                                                                                                                                                  rozliczaniu),                a                                                                po                                                                                                                                                                                                drugie,                                                                                                                                                              dzięki                                                                                                                                    temu                                                                                                                                                                                                                konkurs                                                   będzie                                                                                                                 bardziej                                                                                                                                                                                                                                 przejrzysty.                      Każdy typ nie podany według tego wzoru nie będzie sprawdzany i rozliczany, a user otrzymuje automatycznie 100  Jeżeli nie widzisz nazw bukmacherów, to pamiętaj o wyłączeniu blokowania forum.bukmacherskie.com w Adblocku lub innym tego typu programie.  Prosimy               o pisanie normalnych analiz (brak pogrubienia,                                                                                                                                                                                                                                                               kursyw,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        podkreśleń,                                                                                                                                              kolorów,                                                                                                                          dziwnych                                                                                                                                      czcionek                                                                                                            oraz                                                                                                                                                                                                                                                                                  rozciągania).                                                                                                                         Takie                                                                                                                                                                                                                                            posty                                                                     będą                                                                                                                                  karane                                                                                                               żółtymi                                                                                                                                                                                                                                       kartkami. Oczywiście możecie zaznaczyć tymi sposobami najważniejsze informacje, ale nie całą analizę.  Mile widziany będzie bezpośredni link do wyniku danego meczu (zwłaszcza w przypadku mniej popularnych dyscyplin) np. z oddsportal.com albo flashscore.pl. Przyśpieszy to rozliczenie typu.  Jeśli nie przeczytałeś jeszcze regulaminu, zrób to jak najszybciej KLIKAJĄC TUTAJ     Użytkownik otrzymuje karne 100 punktów za: \n- powtórzenie typu\n- nieregulaminowy bukmacher\n- zawyżenie/zaniżenie kursu\n- brak godziny rozpoczęcia zdarzenia\n- podanie typu po czasie\n- zły zapis typu (brak któregokolwiek elementu ze schematu podawania typu)\n- trzecią i kolejną kiepską analizę w danym miesiącu   Kurs musi być wzięty z oferty następujących bukmacherów: \n- Expekt \n- Bwin \n- Bet-at-home \n- Gamebookers \n- Sportingbet \n- Unibet\n- Betfair \n- BetGun\n- Betsson \n- Bet365\n- PinnacleSports\n- Betsafe\n- William Hill\n- Betclic\n- Oddsring\n- Rivalo\n- Winmasters\n- OtoBet\n- Betano\n- Betway\n- EGB\n- RedBet   W                                                                                                                                                                                                                                                                                                                                                                                                             tym                                           temacie                                                                       obowiązuje                                                                           całkowity                                                        zakaz                                                                                                                                           komentowania!                                                                                                                                                                                                        Niezastosowanie                                                                                    się       do                     tego                                                                      punktu                                                                                               regulaminu,                                                                będzie                                                                                                skutkowało                                                                                                                 blokadą                                                                   konta                                                                                                                                            użytkownika.   Przed zatwierdzeniem posta z analizą, zawsze sprawdź przez Podgląd posta czy wszystko w porządku, żeby uniknąć pomyłek.   W przypadku przeniesienia Twojej analizy do działu &quot;kiepskie analizy&quot; nie możesz już podać nowego typu.   Jeżeli podczas podawania typu popełniłeś błąd i chcesz go poprawić zgłoś to w ODPOWIEDNIM TEMACIE  -&gt;&gt;&gt; KLIK podając LINK                                             do swojego posta. Możesz to uczynić do chwili zamknięcia tematu.   Zachęcamy także do pisania analiz w działach tematycznych    W przypadku plagiatu zostajesz wykluczony z konkursu,  ukarany czerwoną kartką oraz okresowym banem. Bawimy się Fair Play!            Podany                                                                                                                                                                                                                                                                                                                                                               typ                        musi                     być                                                         określony                                                                                precyzyjnie         i                                                                                                                                      jednoznacznie,            w                                                                                    sposób                                                nie                                                                                                                                               pozostawiający                                                       żadnego                                                           pola                do                                                         domysłów                                        czy                                                                                                                          interpretacji.          (W                                                                                            polu                                                                                                                      &quot;Typ:&quot;                                                  zaleca                   się                                                             podawanie                                            nazw                                                                                         zespołów,                                                                                         zawodników                    itp                                                                                                                           zamiast         &quot;1&quot;                                                   czy                    &quot;2&quot;.   W                                                                  ten                                       sposób                                                          dużo                                              trudniej     o                                                                                                                pomyłkę,          a                                 przy                                                                           okazji                                                            wszystko                                                                wygląda                                                                                          dużo                                                                                                         przejrzyściej)."
+		},
+		"Content": "podajemy typy   na czwartek - 17. Listopada    Typy podajemy według wzoru:  Cytat:    Dyscyplina: Piłka Nożna - Australia, A-League Godzina: 22:00 Spotkanie: Adelaide - Sydney Typ: over 2.5 Kurs: 1.80 Bukmacher: Nazwa bukmachera Analiza:    Prosimy                      kopiować                            powyższy schemat                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   podawania                                   typów      i                                                                                                                                                                                                  bezwzględnie                                się                                                                                          do                                                                                                                                                        niego                                                                                                                                                                                                            stosować.                                      \nPo pierwsze, ułatwi to sprawę zarówno uczestnikom konkursu (w podawaniu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      typów),                                             jak            i                                                                                                                                                                     prowadzącym                                         (w                                                               ich                                                                                                                                                                                                                                                                  rozliczaniu),                a                                                                po                                                                                                                                                                                                drugie,                                                                                                                                                              dzięki                                                                                                                                    temu                                                                                                                                                                                                                konkurs                                                   będzie                                                                                                                 bardziej                                                                                                                                                                                                                                 przejrzysty.                      Każdy typ nie podany według tego wzoru nie będzie sprawdzany i rozliczany, a user otrzymuje automatycznie 100  Jeżeli nie widzisz nazw bukmacherów, to pamiętaj o wyłączeniu blokowania forum.bukmacherskie.com w Adblocku lub innym tego typu programie.  Prosimy               o pisanie normalnych analiz (brak pogrubienia,                                                                                                                                                                                                                                                               kursyw,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        podkreśleń,                                                                                                                                              kolorów,                                                                                                                          dziwnych                                                                                                                                      czcionek                                                                                                            oraz                                                                                                                                                                                                                                                                                  rozciągania).                                                                                                                         Takie                                                                                                                                                                                                                                            posty                                                                     będą                                                                                                                                  karane                                                                                                               żółtymi                                                                                                                                                                                                                                       kartkami. Oczywiście możecie zaznaczyć tymi sposobami najważniejsze informacje, ale nie całą analizę.  Mile widziany będzie bezpośredni link do wyniku danego meczu (zwłaszcza w przypadku mniej popularnych dyscyplin) np. z oddsportal.com albo flashscore.pl. Przyśpieszy to rozliczenie typu.  Jeśli nie przeczytałeś jeszcze regulaminu, zrób to jak najszybciej KLIKAJĄC TUTAJ     Użytkownik otrzymuje karne 100 punktów za: \n- powtórzenie typu\n- nieregulaminowy bukmacher\n- zawyżenie/zaniżenie kursu\n- brak godziny rozpoczęcia zdarzenia\n- podanie typu po czasie\n- zły zapis typu (brak któregokolwiek elementu ze schematu podawania typu)\n- trzecią i kolejną kiepską analizę w danym miesiącu   Kurs musi być wzięty z oferty następujących bukmacherów: \n- Expekt \n- Bwin \n- Bet-at-home \n- Gamebookers \n- Sportingbet \n- Unibet\n- Betfair \n- BetGun\n- Betsson \n- Bet365\n- PinnacleSports\n- Betsafe\n- William Hill\n- Betclic\n- Oddsring\n- Rivalo\n- Winmasters\n- OtoBet\n- Betano\n- Betway\n- EGB\n- RedBet   W                                                                                                                                                                                                                                                                                                                                                                                                             tym                                           temacie                                                                       obowiązuje                                                                           całkowity                                                        zakaz                                                                                                                                           komentowania!                                                                                                                                                                                                        Niezastosowanie                                                                                    się       do                     tego                                                                      punktu                                                                                               regulaminu,                                                                będzie                                                                                                skutkowało                                                                                                                 blokadą                                                                   konta                                                                                                                                            użytkownika.   Przed zatwierdzeniem posta z analizą, zawsze sprawdź przez Podgląd posta czy wszystko w porządku, żeby uniknąć pomyłek.   W przypadku przeniesienia Twojej analizy do działu &quot;kiepskie analizy&quot; nie możesz już podać nowego typu.   Jeżeli podczas podawania typu popełniłeś błąd i chcesz go poprawić zgłoś to w ODPOWIEDNIM TEMACIE  -&gt;&gt;&gt; KLIK podając LINK                                             do swojego posta. Możesz to uczynić do chwili zamknięcia tematu.   Zachęcamy także do pisania analiz w działach tematycznych    W przypadku plagiatu zostajesz wykluczony z konkursu,  ukarany czerwoną kartką oraz okresowym banem. Bawimy się Fair Play!            Podany                                                                                                                                                                                                                                                                                                                                                               typ                        musi                     być                                                         określony                                                                                precyzyjnie         i                                                                                                                                      jednoznacznie,            w                                                                                    sposób                                                nie                                                                                                                                               pozostawiający                                                       żadnego                                                           pola                do                                                         domysłów                                        czy                                                                                                                          interpretacji.          (W                                                                                            polu                                                                                                                      &quot;Typ:&quot;                                                  zaleca                   się                                                             podawanie                                            nazw                                                                                         zespołów,                                                                                         zawodników                    itp                                                                                                                           zamiast         &quot;1&quot;                                                   czy                    &quot;2&quot;.   W                                                                  ten                                       sposób                                                          dużo                                              trudniej     o                                                                                                                pomyłkę,          a                                 przy                                                                           okazji                                                            wszystko                                                                wygląda                                                                                          dużo                                                                                                         przejrzyściej). "
+	},
+	{
+		"Author": {
+			"Login": "baku193",
+			"JoinedDate": "2009-08-27T00:00:00",
+			"PostsCount": 1198,
+			"Reputation": 2469
+		},
+		"CreatedPostDate": "2016-11-16T17:57:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T00:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 4.5,
+			"Branch": "Piłka nożna Brazylia",
+			"Analyse": "Na jutro wybrałem spotkanie w Ligi Brazylijskiej w którym  będąca na 15  pozycji w ligowej klasyfikacji ekipa Coritiby podejmowała  będzie drużynę  Santa Cruz, gospodarze dla mnie jak i dla bukmacherów  wystawiających  kursy na to spotkanie są zdecydowanym faworytem do  zdobycia kompletu  punktów na swoim stadionie, Coritiba u siebie ma  niezły bilans w 17  dotychczasowych meczach wygrała 8 razy 7 razy  remisowała i poniosła  zaledwie 2 porażki bilans bramek to 28:16, goście  na wyjazdach grają  niezwykle słabo i są praktycznie jednym z ostatnich  zespołów pod  wzgledem ugranych punktów, Santa Cruz do tej pory na  wyjazdach grało 17  spotkań zdobyło w nich tylko 8 punktów, jest to  bardzo słaby wynik ,  który myślę że w tym meczu nie zostanie  poprawiony, gospodarze bowiem  pomimo tego iż przed strefą spadkową  dzieli ich 4 punkty na pewno maja  jedno z łatwiejszych spotkań przed  własną publicznością co na pewno będa  chcieli wykorzystać , moim  zdaniem to gospodarze od pierwszej do  ostatniej minuty spotkania  zaatakują drużynę przyjezdnych a goście  skoncentrują się tylko na  obronie w tym sezonie i tak już w ligi spadną  więc nie mają nic do  stracenia również w tym spotkaniu  do tej pory obie  ekipy spotykały się  ze sobą 5-krotnie  4 wygrane zaliczyła ekipa  Coritiby i padł jeden  podział punktów,w tej kolejce stawiam na wygraną  gospodarzy do połowy i  na koniec oraz na wynik 2:0 po 90 minutach tej  rywalizacji.  100"
+		},
+		"Content": "\t\tDyscyplina Piłka nożna Brazylia \nGodz: 00:00\nSpotkanie Coritiba-Santa Cruz\nTyp: Coritiba wygra dokładnie 2 golami \nKurs 4.50\nBuk Unibet\nAnaliza:  Na jutro wybrałem spotkanie w Ligi Brazylijskiej w którym  będąca na 15  pozycji w ligowej klasyfikacji ekipa Coritiby podejmowała  będzie drużynę  Santa Cruz, gospodarze dla mnie jak i dla bukmacherów  wystawiających  kursy na to spotkanie są zdecydowanym faworytem do  zdobycia kompletu  punktów na swoim stadionie, Coritiba u siebie ma  niezły bilans w 17  dotychczasowych meczach wygrała 8 razy 7 razy  remisowała i poniosła  zaledwie 2 porażki bilans bramek to 28:16, goście  na wyjazdach grają  niezwykle słabo i są praktycznie jednym z ostatnich  zespołów pod  wzgledem ugranych punktów, Santa Cruz do tej pory na  wyjazdach grało 17  spotkań zdobyło w nich tylko 8 punktów, jest to  bardzo słaby wynik ,  który myślę że w tym meczu nie zostanie  poprawiony, gospodarze bowiem  pomimo tego iż przed strefą spadkową  dzieli ich 4 punkty na pewno maja  jedno z łatwiejszych spotkań przed  własną publicznością co na pewno będa  chcieli wykorzystać , moim  zdaniem to gospodarze od pierwszej do  ostatniej minuty spotkania  zaatakują drużynę przyjezdnych a goście  skoncentrują się tylko na  obronie w tym sezonie i tak już w ligi spadną  więc nie mają nic do  stracenia również w tym spotkaniu  do tej pory obie  ekipy spotykały się  ze sobą 5-krotnie  4 wygrane zaliczyła ekipa  Coritiby i padł jeden  podział punktów,w tej kolejce stawiam na wygraną  gospodarzy do połowy i  na koniec oraz na wynik 2:0 po 90 minutach tej  rywalizacji.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "zibi16",
+			"JoinedDate": "2007-08-01T00:00:00",
+			"PostsCount": 354,
+			"Reputation": 646
+		},
+		"CreatedPostDate": "2016-11-16T18:16:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T17:30:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 2.85,
+			"Branch": "Hokej - Rosja, KHL",
+			"Analyse": "Witam, na jutro proponuję typ z Hokeja gdzie w KHL w ramach 31 kolejki Petersburg podejmuje u siebie Ekaterinburg. \nZespół z Petersburga jest piekielnie mocną drużyną zwłaszcza grając u siebie, ostatnie 15 meczy to 15 zwycięstw i tylko 1 mecz wygrany w tym po dogrywce, a tak to wygrywane są bardzo wysoko - 5 razy by ten handicap wszedł ale już aż 10 razy wygrywali minimum 4 golami zaś zespół Ekaterinburg na 15 ostatnich meczy na wyjeździe przegrali aż 11 razy, 4 razy wygrywali. Petersburg jest w mega formie, 2 ostatnie pojedynki wygrali aż 7:1 i 9:0!\nMiędzy obiema drużynami jest przepaść.\nMam nadzieję, że I.Kovalchuk, N. Gusev, V. Shipachyov i Y. Dadonov, którzy są najlepszymi strzelcami drużyny poprowadzą Petersburg nie do zwycięstwa ale do pogromu kolejnej drużyny a to, że potrafią strzelać bardzo dużo goli widać po statystykach, w całej lidze żadna drużyna jeszcze nie przekroczyła bariery 100 goli strzelonych, żadna prócz oczywiście Petersburga który przekroczył i strzelił aż 141 bramek! Ale również defensywa jest świetna, jako jedyni stracili mniej niż 50 bramek a dokładnie stracili ich tylko 46. \nStawiam na bardzo wysokie zwycięstwo gospodarzy. \nPozdrawiam   100"
+		},
+		"Content": "ina: Hokej - Rosja, KHL Godzina: 17:30 Spotkanie: SKA St. Petersburg (-4,5) - Jekaterinburg Typ: 1   Kurs: 2,85 Bukmacher: forBet Analiza: \nWitam, na jutro proponuję typ z Hokeja gdzie w KHL w ramach 31 kolejki Petersburg podejmuje u siebie Ekaterinburg. \nZespół z Petersburga jest piekielnie mocną drużyną zwłaszcza grając u siebie, ostatnie 15 meczy to 15 zwycięstw i tylko 1 mecz wygrany w tym po dogrywce, a tak to wygrywane są bardzo wysoko - 5 razy by ten handicap wszedł ale już aż 10 razy wygrywali minimum 4 golami zaś zespół Ekaterinburg na 15 ostatnich meczy na wyjeździe przegrali aż 11 razy, 4 razy wygrywali. Petersburg jest w mega formie, 2 ostatnie pojedynki wygrali aż 7:1 i 9:0!\nMiędzy obiema drużynami jest przepaść.\nMam nadzieję, że I.Kovalchuk, N. Gusev, V. Shipachyov i Y. Dadonov, którzy są najlepszymi strzelcami drużyny poprowadzą Petersburg nie do zwycięstwa ale do pogromu kolejnej drużyny a to, że potrafią strzelać bardzo dużo goli widać po statystykach, w całej lidze żadna drużyna jeszcze nie przekroczyła bariery 100 goli strzelonych, żadna prócz oczywiście Petersburga który przekroczył i strzelił aż 141 bramek! Ale również defensywa jest świetna, jako jedyni stracili mniej niż 50 bramek a dokładnie stracili ich tylko 46. \nStawiam na bardzo wysokie zwycięstwo gospodarzy. \nPozdrawiam   100   "
+	},
+	{
+		"Author": {
+			"Login": "lukas4826",
+			"JoinedDate": "2016-03-05T00:00:00",
+			"PostsCount": 19,
+			"Reputation": 238
+		},
+		"CreatedPostDate": "2016-11-16T18:25:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T12:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 0.0,
+			"Branch": "Hokej na lodzie - Rosja - MHL",
+			"Analyse": "Na wstępię wyjaśnię, że nie jest to aż tak wysoki kurs jak w poprzednich spotkaniach. Niektórzy może będą zawiedzeni, ale ja sam zaświadczam że jest to bardzo pewny wybór. Więc chcąc podtrzymać passę wygranych, skieruję się w stronę tego meczu. \nJutrzejszego dnia, w samo południe zmierzą się dwa zespoły z rosyjskiej młodzieżówki: Omskie Yastreby vs Kuznetskie Medvedi. \nO Kuznetskie Medvediach pisałem już 2 dni temu, więc posiłkując się tamtym materiałem podam dane i moje spostrzeżenie, lecz nie będę się szerzej rozpisywał. Jak ktoś chcę zobaczyć aktualną analizę tego zespołu, proszę przejść do typu dnia z 14.11.2016. \nTak jak pisałem już wcześniej, jest to zespół nie wykorzystujący całego swojego potencjału, czasem brakuję po prostu trochę szczęścia. Przez 20 rozegranych meczy, przegrali 8 razy, strzelając przy tym 61 bramki. Na 5 ostatnich meczy, wygrali zaledwie 2 razy, ale warto zaznaczyć, że przez te spotkania strzelili aż 14 bramek.\nJest to taki ligowy średniak, ale nie można go skreślać. Ostatni pojedynek z Belye Medvedi który opisywałem, przegrali zaledwię 1 bramką, 4:3.  \nOmskie Yastreby zespół topowy, ubiegłoroczną rywalizację skończył na 1 miejscu w tabeli, lecz później odpadł w 1/8 playoffów. W tym sezonie, zadziwia i szokuję. Czym? Wynikami \nPrzez 28 spotkań, wygrywali 19 razy. Może nie jest to tak rewelacyjny wynik jak w ubiegłym sezonie, alę formę określibym jako lepszą. Przez te wszystkie spotkania strzelili bagatela 121 bramki, tracąc przy tym 73, co też jest sporym wynikiem. To tylko nakreśla nam, jak dynamiczny i otwarty styl ten zespół gra.\nWarto też wspomnieć o wspaniałym duecie: Kovalyov 22 bramki 24 asysty i Manukyan 17 bramek 28 asyst, są to na prawdę gwiazdy w tej lidzę. Ale zespół to nie tylko 2 zawodników są też inni młodzi, utalentowani zawodnicy, między innymi: Tretyakov, Schyogolev czy też Samokhvalov. \nMecze między tymi drużynami\nW 2016 roku, nie było rozegranego jeszcze żadnego spotkania.\nW ubiegłym sezonie, przez 5 ostatnich spotkań, wyniki wyglądały następująco: \n2:3\n3:3\n1:3\n4:4\n2:3 \nKursy na ten mecz wynoszą następująco: 1.45 do 4.50 na rzecz zespołu z Omska.\nSam również jestem za jastrzębiami, ale nie można skreślać niedźwiedzi, którzy pokazują ostatnio mocną siłę walki, rywalizując do końca nawet z lepszymi drużynami. Dlatego kursy tak są ukształtowane  \nReasumując jest to w miarę dość pewny typ z przyzwoitym kursem.  \nGL  72"
+		},
+		"Content": "ina: Hokej na lodzie - Rosja - MHL Godzina: 12:00 Spotkanie: Omskie Yastreby vs Kuznetskie Medvedi Typ: over 5.5 Kurs: 1.72 Bukmacher: Bet365 Analiza: \nNa wstępię wyjaśnię, że nie jest to aż tak wysoki kurs jak w poprzednich spotkaniach. Niektórzy może będą zawiedzeni, ale ja sam zaświadczam że jest to bardzo pewny wybór. Więc chcąc podtrzymać passę wygranych, skieruję się w stronę tego meczu. \nJutrzejszego dnia, w samo południe zmierzą się dwa zespoły z rosyjskiej młodzieżówki: Omskie Yastreby vs Kuznetskie Medvedi. \nO Kuznetskie Medvediach pisałem już 2 dni temu, więc posiłkując się tamtym materiałem podam dane i moje spostrzeżenie, lecz nie będę się szerzej rozpisywał. Jak ktoś chcę zobaczyć aktualną analizę tego zespołu, proszę przejść do typu dnia z 14.11.2016. \nTak jak pisałem już wcześniej, jest to zespół nie wykorzystujący całego swojego potencjału, czasem brakuję po prostu trochę szczęścia. Przez 20 rozegranych meczy, przegrali 8 razy, strzelając przy tym 61 bramki. Na 5 ostatnich meczy, wygrali zaledwie 2 razy, ale warto zaznaczyć, że przez te spotkania strzelili aż 14 bramek.\nJest to taki ligowy średniak, ale nie można go skreślać. Ostatni pojedynek z Belye Medvedi który opisywałem, przegrali zaledwię 1 bramką, 4:3.  \nOmskie Yastreby zespół topowy, ubiegłoroczną rywalizację skończył na 1 miejscu w tabeli, lecz później odpadł w 1/8 playoffów. W tym sezonie, zadziwia i szokuję. Czym? Wynikami \nPrzez 28 spotkań, wygrywali 19 razy. Może nie jest to tak rewelacyjny wynik jak w ubiegłym sezonie, alę formę określibym jako lepszą. Przez te wszystkie spotkania strzelili bagatela 121 bramki, tracąc przy tym 73, co też jest sporym wynikiem. To tylko nakreśla nam, jak dynamiczny i otwarty styl ten zespół gra.\nWarto też wspomnieć o wspaniałym duecie: Kovalyov 22 bramki 24 asysty i Manukyan 17 bramek 28 asyst, są to na prawdę gwiazdy w tej lidzę. Ale zespół to nie tylko 2 zawodników są też inni młodzi, utalentowani zawodnicy, między innymi: Tretyakov, Schyogolev czy też Samokhvalov. \nMecze między tymi drużynami\nW 2016 roku, nie było rozegranego jeszcze żadnego spotkania.\nW ubiegłym sezonie, przez 5 ostatnich spotkań, wyniki wyglądały następująco: \n2:3\n3:3\n1:3\n4:4\n2:3 \nKursy na ten mecz wynoszą następująco: 1.45 do 4.50 na rzecz zespołu z Omska.\nSam również jestem za jastrzębiami, ale nie można skreślać niedźwiedzi, którzy pokazują ostatnio mocną siłę walki, rywalizując do końca nawet z lepszymi drużynami. Dlatego kursy tak są ukształtowane  \nReasumując jest to w miarę dość pewny typ z przyzwoitym kursem.  \nGL  72\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "rangers86",
+			"JoinedDate": "2016-07-25T00:00:00",
+			"PostsCount": 47,
+			"Reputation": 43
+		},
+		"CreatedPostDate": "2016-11-16T18:47:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T20:30:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.83,
+			"Branch": "Koszykówka Euroliga",
+			"Analyse": "Bamberg w lidze niemieckiej wymiata z bilansem 10-0. Baskonia w lidze z bilansem 5-3 na 6 pozycji. Jednak Euroliga weryfikuje umiejętności zawodników i poziom ligi Hiszpańskiej i Niemieckiej. Bamberg bilans 2-5 a te dwa zwycięstwa mnie nie przekonują gdyż ograli we własnej hali mocno przeciętny Kazań 89-86 oraz po dogrywce wymęczyli zwycięstwo z Milano. Z Baskonią bilans mają fatalny 1-5 :\n07.04.16    EUR    Bamberg    Baskonia    89 : 69\n11.02.16    EUR    Baskonia    Bamberg    90 : 64\n15.03.06    EUR    Baskonia    Bamberg    71 : 51\n23.02.06    EUR    Bamberg    Baskonia    72 : 77\n31.01.06    EUR    Bamberg    Baskonia    68 : 73\n07.12.05    EUR    Baskonia    Bamberg    77 : 59\nJedyne zwycięstwo oczywiście we własnej hali poza tym porażki a na wyjazdach za każdym razem porządne lanie. Dodatkowo ostatnio też porażka z Barceloną więc raczej im hiszpańska ziemia nie służy. Mój typ handi w stronę gospodarzy i tak uważam że mocno bezpieczny ale zobaczymy.\nZ fartem.  kiepska analiza"
+		},
+		"Content": "\t\tDyscyplina: Koszykówka Euroliga\nGodzina: 20:30\nSpotkanie: Baskonia - Bamberg\nTyp: Baskonia -5,5\nKurs: 1,83\nBukmacher: Bet365\nAnaliza:\nBamberg w lidze niemieckiej wymiata z bilansem 10-0. Baskonia w lidze z bilansem 5-3 na 6 pozycji. Jednak Euroliga weryfikuje umiejętności zawodników i poziom ligi Hiszpańskiej i Niemieckiej. Bamberg bilans 2-5 a te dwa zwycięstwa mnie nie przekonują gdyż ograli we własnej hali mocno przeciętny Kazań 89-86 oraz po dogrywce wymęczyli zwycięstwo z Milano. Z Baskonią bilans mają fatalny 1-5 :\n07.04.16    EUR    Bamberg    Baskonia    89 : 69\n11.02.16    EUR    Baskonia    Bamberg    90 : 64\n15.03.06    EUR    Baskonia    Bamberg    71 : 51\n23.02.06    EUR    Bamberg    Baskonia    72 : 77\n31.01.06    EUR    Bamberg    Baskonia    68 : 73\n07.12.05    EUR    Baskonia    Bamberg    77 : 59\nJedyne zwycięstwo oczywiście we własnej hali poza tym porażki a na wyjazdach za każdym razem porządne lanie. Dodatkowo ostatnio też porażka z Barceloną więc raczej im hiszpańska ziemia nie służy. Mój typ handi w stronę gospodarzy i tak uważam że mocno bezpieczny ale zobaczymy.\nZ fartem.  kiepska analiza "
+	},
+	{
+		"Author": {
+			"Login": "tigana",
+			"JoinedDate": "2012-06-01T00:00:00",
+			"PostsCount": 55,
+			"Reputation": 116
+		},
+		"CreatedPostDate": "2016-11-16T20:14:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T00:45:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.68,
+			"Branch": "Piłka Nożna Brazylia Serie A",
+			"Analyse": "Dziś w nocy w ramach 35 kolejki w lidze brazylijskiej spotykają sie America Mineiro MG i Flamengo RJ. Faworytem do kompletu pkt są goście, którzy zjamują aktualnie 3 pozycję w tabeli z 63 pkt. Liga wkroczyła w decydującą fazę i do końca pozostało już tylko  4 mecze. Flamengo przyjeżdża do najsłabszej ekipy w lidze, która zamyka tabelę z 27 pkt. Drużyna gospodarzy nie ma już szans na utrzymanie więc nie będą na pewno forsować tempa. W innej sytuacji jest Flamengo, które gra o Copa Libertadores ale czują za plecami rywali. O trzy pkt mniej ma Atletico MG, które będzie mierzyć sie z Palmeiras aktualnym liderem. Dlatego Flamengo bedą chcieli wygrać ten mecz i rozbić rywala, który jest w dołku. Stawiam, że goście strzelą minimum dwa gole. H2h obu drużyn to 4 zwycięstwa gości i myślę, że tym razem będzie tak samo. W trzech tych meczach strzelili over 1.5 gola.  100"
+		},
+		"Content": "\t\tDyscyplina: Piłka Nożna Brazylia Serie A\nGodzina: 00:45\nSpotkanie: America Mineiro MG - Flamengo RJ\nTyp: Flamengo RJ over 1.5 gola\nKurs: 1,68\nBukmacher: Bet-at-home\nAnaliza:\nDziś w nocy w ramach 35 kolejki w lidze brazylijskiej spotykają sie America Mineiro MG i Flamengo RJ. Faworytem do kompletu pkt są goście, którzy zjamują aktualnie 3 pozycję w tabeli z 63 pkt. Liga wkroczyła w decydującą fazę i do końca pozostało już tylko  4 mecze. Flamengo przyjeżdża do najsłabszej ekipy w lidze, która zamyka tabelę z 27 pkt. Drużyna gospodarzy nie ma już szans na utrzymanie więc nie będą na pewno forsować tempa. W innej sytuacji jest Flamengo, które gra o Copa Libertadores ale czują za plecami rywali. O trzy pkt mniej ma Atletico MG, które będzie mierzyć sie z Palmeiras aktualnym liderem. Dlatego Flamengo bedą chcieli wygrać ten mecz i rozbić rywala, który jest w dołku. Stawiam, że goście strzelą minimum dwa gole. H2h obu drużyn to 4 zwycięstwa gości i myślę, że tym razem będzie tak samo. W trzech tych meczach strzelili over 1.5 gola.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "xamon",
+			"JoinedDate": "2012-09-14T00:00:00",
+			"PostsCount": 230,
+			"Reputation": 1172
+		},
+		"CreatedPostDate": "2016-11-16T22:32:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T02:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.61,
+			"Branch": "Koszykówka - USA",
+			"Analyse": "Toronto dobrze weszło w sezon. Zanotowali jak na razie trzy porażki w tym dwie z mistrzami, ale mimo to pozostawili po sobie bardzo dobre wrażenie, ponieważ walczyli jak równy w równym do ostatniej piłki a to zawsze się ceni. Jedyne spotkanie do którego można się przyczepić to przegrana z Sacramento Kings, które jednak pod rządami Dave Joergera prezentuje się bardzo solidnie. Prawdziwą ostoją Dinozaurów jest DeMar DeRozan, który jest liderem klasyfikacji strzelców ze średnią ponad 33 punktów na mecz. Warriors ostatnio strasznie męczyli się u siebie ze słabiutkimi Suns przegrywając na parę minut przed końcem 5 punktami, rzutem na taśmę zdołali wygrać. Toronto to zupełnie inna półka i myślę że jak najbardziej stać ich żeby we własnej hali nawiązać walkę z Goldenami.  61"
+		},
+		"Content": "ina: Koszykówka - USA  Godzina: 02:00 Spotkanie: Toronto Raptors - Golden State Warriors Typ: Toronto Raptors +8,5 Kurs: 1,61 Bukmacher: Bet365 Analiza: \nToronto dobrze weszło w sezon. Zanotowali jak na razie trzy porażki w tym dwie z mistrzami, ale mimo to pozostawili po sobie bardzo dobre wrażenie, ponieważ walczyli jak równy w równym do ostatniej piłki a to zawsze się ceni. Jedyne spotkanie do którego można się przyczepić to przegrana z Sacramento Kings, które jednak pod rządami Dave Joergera prezentuje się bardzo solidnie. Prawdziwą ostoją Dinozaurów jest DeMar DeRozan, który jest liderem klasyfikacji strzelców ze średnią ponad 33 punktów na mecz. Warriors ostatnio strasznie męczyli się u siebie ze słabiutkimi Suns przegrywając na parę minut przed końcem 5 punktami, rzutem na taśmę zdołali wygrać. Toronto to zupełnie inna półka i myślę że jak najbardziej stać ich żeby we własnej hali nawiązać walkę z Goldenami.  61\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "sensejjag",
+			"JoinedDate": "2011-08-01T00:00:00",
+			"PostsCount": 422,
+			"Reputation": 551
+		},
+		"CreatedPostDate": "2016-11-16T22:54:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T00:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 2.02,
+			"Branch": "koszykówka NBA",
+			"Analyse": "Godzinę po północy naszego czasu dojdzie do pojedynku zespołów, które okupują dno konferencji wschodniej. O ile słaba postawa Szóstek nie dziwi (w zeszłym sezonie regularnym wygrali zaledwie dziesięć meczy), to tak słaby początek w wykonaniu Czarodziejów nie przewidzieli chyba nawet najwięksi pesymiści. Zespół ze stolicy w jedenastu meczach odniósł zaledwie dwa zwycięstwa i w swojej konferencji sa lepsi tylko właśnie od 76ers oraz rozebranych w przerwie Miami. W ekipie Wizard jedynie John Wall stara się coś grać a pomaga mu jak  może nasz jedynak w lidze Marcin Gortat. I Polak ze swoich zadan wywiązuje się bez zarzutów. Może nie jest super strzelcem, ale to już raczej nie z powodu słabej skuteczności, ale bardziej z braku odpowiedniej ilości otrzymanych podan. Jeśli te już sa to Gortat jest skuteczny (FG na poziomie ponad 55% daje mu bardzo wysokie ósme miejsce w lidze). Natomiast w defensywie Gortat to już absolutnie ligowa czołówka - pod względem zbiórek ustępuje tylko Whiteside'owi z  Miami i Drummondowi z Detroit. Wynik ponad dwanaście zbiórek na mecz na pewno robi wrażenie. Dziś staje przed szansa na podkręcenie swoich statystyk, bo Szóstki raczej nie będą miały argumentów by skutecznie uprzykrzyć życie Marcinowi. Pod koszem o zbiórki bedzie rywalizował z jedynka w zeszłorocznym drafcie Okaforem, który jednak nie potwierdził puki co swojego talentu oraz z Kamerunczykiem Embiidem. Moim zdaniem poza ogromnym doświadczeniem Marcin jest dużo lepszym graczem od tych młodzików, do tego ma w zespole playmakera z prawdziwego zdarzenia. Moim zdaniem Gortat ma bardzo duże szanse na ugranie kolejnego w tym sezonie double-double, a to powinno w zupełności wystarczyć na pokrycie linii na punkty i zbiórki oferowane w Betsson  100"
+		},
+		"Content": "\t\tDyscyplina: koszykówka NBA\nGodzina: 1-00\nSpotkanie: Philadelphia 76ers - Washington Wizards\nTyp: Gortat over 25,5 (punkty + zbiórki)\nKurs: 2.02\nBukmacher: Betsson \nAnaliza:\nGodzinę po północy naszego czasu dojdzie do pojedynku zespołów, które okupują dno konferencji wschodniej. O ile słaba postawa Szóstek nie dziwi (w zeszłym sezonie regularnym wygrali zaledwie dziesięć meczy), to tak słaby początek w wykonaniu Czarodziejów nie przewidzieli chyba nawet najwięksi pesymiści. Zespół ze stolicy w jedenastu meczach odniósł zaledwie dwa zwycięstwa i w swojej konferencji sa lepsi tylko właśnie od 76ers oraz rozebranych w przerwie Miami. W ekipie Wizard jedynie John Wall stara się coś grać a pomaga mu jak  może nasz jedynak w lidze Marcin Gortat. I Polak ze swoich zadan wywiązuje się bez zarzutów. Może nie jest super strzelcem, ale to już raczej nie z powodu słabej skuteczności, ale bardziej z braku odpowiedniej ilości otrzymanych podan. Jeśli te już sa to Gortat jest skuteczny (FG na poziomie ponad 55% daje mu bardzo wysokie ósme miejsce w lidze). Natomiast w defensywie Gortat to już absolutnie ligowa czołówka - pod względem zbiórek ustępuje tylko Whiteside'owi z  Miami i Drummondowi z Detroit. Wynik ponad dwanaście zbiórek na mecz na pewno robi wrażenie. Dziś staje przed szansa na podkręcenie swoich statystyk, bo Szóstki raczej nie będą miały argumentów by skutecznie uprzykrzyć życie Marcinowi. Pod koszem o zbiórki bedzie rywalizował z jedynka w zeszłorocznym drafcie Okaforem, który jednak nie potwierdził puki co swojego talentu oraz z Kamerunczykiem Embiidem. Moim zdaniem poza ogromnym doświadczeniem Marcin jest dużo lepszym graczem od tych młodzików, do tego ma w zespole playmakera z prawdziwego zdarzenia. Moim zdaniem Gortat ma bardzo duże szanse na ugranie kolejnego w tym sezonie double-double, a to powinno w zupełności wystarczyć na pokrycie linii na punkty i zbiórki oferowane w Betsson  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "emdex",
+			"JoinedDate": "2013-09-15T00:00:00",
+			"PostsCount": 48,
+			"Reputation": 269
+		},
+		"CreatedPostDate": "2016-11-17T00:54:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T01:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 3.4,
+			"Branch": "Koszykówka/ NBA",
+			"Analyse": "plina: Koszykówka/ NBA\nGodzina: 01:00\nSpotkanie: Philadelphia 76ers - Washington W. \nTyp: (-13,5) WAS Wizards win\nKurs: 3,40\nBukmacher: Bet365 \nWitam, \nNie czekam tym razem na wieczorne mecze w Eurolidze,  szkoda że nikt chyba nie skorzysta, bo spotkanie za moment ma swój początek.\nTak pewna i przekonująca zapowiada się wygraną WAS że muszę to podać.  \nPo pierwsze przyszedł czas na przerwanie tej zlej passy, na 5 spotkań to aż 4 porażki, tyle że sporym wytłumaczeniem dla Gortata i spółki jest fakt że grali rywalami byli m.in Houston, Cleveland czy Chicago.\nPo drugiej stronie zespół który co jakiś czas będzie zaskakiwal, ale pewnie rzadko.  Ostatnio lanie, Houston i Atlanty, a jak idzie wygrać gładko na terenie Philadelphi pokazali już gracze Utah, Detroit czy znów Atlanty.\nPo za tym 14 i 7 października oba zespoły mierzyly się że sobą z relacji spotkań przedsezonowych i obie te potyczki na korzyść Wizards. \nReasumując, nie przewiduje niespodzianki,  liczę na gładką wygraną gości, trochę ryzykując z tym handi, jednak myślę że 76ers nie zamiar lini 90pkt co przy 100-paru punktach Czarodzieji da możliwość jego pokrycia.  \nPowodzenia   100"
+		},
+		"Content": "\t\tDyscyplina: Koszykówka/ NBA\nGodzina: 01:00\nSpotkanie: Philadelphia 76ers - Washington W. \nTyp: (-13,5) WAS Wizards win\nKurs: 3,40\nBukmacher: Bet365 \nWitam, \nNie czekam tym razem na wieczorne mecze w Eurolidze,  szkoda że nikt chyba nie skorzysta, bo spotkanie za moment ma swój początek.\nTak pewna i przekonująca zapowiada się wygraną WAS że muszę to podać.  \nPo pierwsze przyszedł czas na przerwanie tej zlej passy, na 5 spotkań to aż 4 porażki, tyle że sporym wytłumaczeniem dla Gortata i spółki jest fakt że grali rywalami byli m.in Houston, Cleveland czy Chicago.\nPo drugiej stronie zespół który co jakiś czas będzie zaskakiwal, ale pewnie rzadko.  Ostatnio lanie, Houston i Atlanty, a jak idzie wygrać gładko na terenie Philadelphi pokazali już gracze Utah, Detroit czy znów Atlanty.\nPo za tym 14 i 7 października oba zespoły mierzyly się że sobą z relacji spotkań przedsezonowych i obie te potyczki na korzyść Wizards. \nReasumując, nie przewiduje niespodzianki,  liczę na gładką wygraną gości, trochę ryzykując z tym handi, jednak myślę że 76ers nie zamiar lini 90pkt co przy 100-paru punktach Czarodzieji da możliwość jego pokrycia.  \nPowodzenia   100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "viren",
+			"JoinedDate": "2015-10-28T00:00:00",
+			"PostsCount": 864,
+			"Reputation": 675
+		},
+		"CreatedPostDate": "2016-11-17T01:00:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T01:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 3.44,
+			"Branch": "Koszykówka/ NBA",
+			"Analyse": "plina: Koszykówka/ NBA\nGodzina: 01:00\nSpotkanie: Philadelphia 76ers - Washington W. \nTyp: Philsdelphia win\nKurs: 3,44\nBukmacher: Pinnacle \nProblemem Washingtonu jest przeplacony sklad i nonszalanckie podejscie zawodnikow typu Gortat i ich marudzenie jak tez wyolbrzymione ego. Do tego kontuzje i konflikty w druzynie. Nic nie pomogla zmaiana trenera, jak plyneli tak plyna i sa na najlepszej drodze do nie zagrania w play off. Nawet najslabsze druzyny beda sie z nimi przelamywac, bo jak nie z nimi to z kim. \nPhiladelphia napewno nastawi sie na to spotkanie, jest okazja na pierwsze zwyciestwo i dzis wyjatkowo sie przyloza do meczu. Taka okazja jak kontuzjowane, osla#bione i skonfliktowane Wizards dlugo sie im nie powtorzy. Podkreslam, jesli nie  znimi to z kim?  244"
+		},
+		"Content": "\t\tDyscyplina: Koszykówka/ NBA\nGodzina: 01:00\nSpotkanie: Philadelphia 76ers - Washington W. \nTyp: Philsdelphia win\nKurs: 3,44\nBukmacher: Pinnacle \nProblemem Washingtonu jest przeplacony sklad i nonszalanckie podejscie zawodnikow typu Gortat i ich marudzenie jak tez wyolbrzymione ego. Do tego kontuzje i konflikty w druzynie. Nic nie pomogla zmaiana trenera, jak plyneli tak plyna i sa na najlepszej drodze do nie zagrania w play off. Nawet najslabsze druzyny beda sie z nimi przelamywac, bo jak nie z nimi to z kim. \nPhiladelphia napewno nastawi sie na to spotkanie, jest okazja na pierwsze zwyciestwo i dzis wyjatkowo sie przyloza do meczu. Taka okazja jak kontuzjowane, osla#bione i skonfliktowane Wizards dlugo sie im nie powtorzy. Podkreslam, jesli nie  znimi to z kim?  244\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "5xharoldx5",
+			"JoinedDate": "2012-02-16T00:00:00",
+			"PostsCount": 1268,
+			"Reputation": 1623
+		},
+		"CreatedPostDate": "2016-11-17T04:07:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T00:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 4.2,
+			"Branch": "Koszykówka - NBA",
+			"Analyse": "Sacramento Kings nie są chłopcami do bicia w tym sezonie. Ich bilans może nie wygląda najlepiej, bo mają cztery zwycięstwa przy siedmiu przegranych meczach, ale dwie z tych porażek były dopiero w dogrywce. Najważniejsze jest to, że wszyscy zawodnicy są zdrowi, bo u Sacramento Kings taka sytuacja należy raczej do rzadkości, bo z tego co pamiętam, to tam wiecznie ktoś miał jakieś problemy. Jeśli zdrowie dopisuje, to mają naprawdę ciekawy zespół, który może sprawić niejedną niespodziankę. Oczywiście San Antonio Spurs mają jeszcze lepszy, ale mieli już kilka wpadek w tym sezonie. Co ciekawe wszystkie ich przegrane mecze były na ich parkiecie, na wyjeździe jeszcze nie przegrali. W końcu na wyjeździe też przegrają i to może być już w tym meczu. Liczę na zwycięstwo Sacramento Kings i ich prowadzenie po pierwszej połowie. Sacramento Kings w pełnym składzie, grające u siebie są niebezpieczni nawet dla najlepszych.  100"
+		},
+		"Content": "\t\tDyscyplina: Koszykówka - NBA\nGodzina: 4:35\nSpotkanie: Sacramento Kings - San Antonio Spurs\nTyp: połowa meczu / koniec meczu : Sacramento Kings / Sacramento Kings\nKurs: 4,20\nBukmacher: Bet365\nAnaliza: \nSacramento Kings nie są chłopcami do bicia w tym sezonie. Ich bilans może nie wygląda najlepiej, bo mają cztery zwycięstwa przy siedmiu przegranych meczach, ale dwie z tych porażek były dopiero w dogrywce. Najważniejsze jest to, że wszyscy zawodnicy są zdrowi, bo u Sacramento Kings taka sytuacja należy raczej do rzadkości, bo z tego co pamiętam, to tam wiecznie ktoś miał jakieś problemy. Jeśli zdrowie dopisuje, to mają naprawdę ciekawy zespół, który może sprawić niejedną niespodziankę. Oczywiście San Antonio Spurs mają jeszcze lepszy, ale mieli już kilka wpadek w tym sezonie. Co ciekawe wszystkie ich przegrane mecze były na ich parkiecie, na wyjeździe jeszcze nie przegrali. W końcu na wyjeździe też przegrają i to może być już w tym meczu. Liczę na zwycięstwo Sacramento Kings i ich prowadzenie po pierwszej połowie. Sacramento Kings w pełnym składzie, grające u siebie są niebezpieczni nawet dla najlepszych.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "#10",
+			"JoinedDate": "2016-05-07T00:00:00",
+			"PostsCount": 51,
+			"Reputation": 58
+		},
+		"CreatedPostDate": "2016-11-17T09:07:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T20:30:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 3.35,
+			"Branch": "Siatkówka Liga Włoska",
+			"Analyse": "Trentino się nie zatrzymuje, bez porażki, mając 1 mecz rozegrany mniej przewodzi w ligowej tabeli. W poprzedniej kolejce pokonali dużo mocniejsze od Piacenzy Lube u siebie 3:1. Ich dzisiejszy rywal nie powinien sprawić im większych problemów. Drużyna doświadczonych Kubańczyków w ostatnim czasie prezentuje się lepiej niż na początku sezonu, ale dzisiaj to może być zbyt mało na zgraną ekipę Trentino. Wygraną Trentino zapewni lepsza kadra oraz lepsza dyspozycja, Piacenza owszem również jest w nie najgorszej formie i gra u siebie, ale więcej niż seta to Trentino im raczej nie pozwoli ugrać. 3:1 dla Trentino dla mnie najbardziej prawdopodobny wynik dzisiejszego meczu.  100"
+		},
+		"Content": "\t\tDyscyplina: Siatkówka Liga Włoska\nGodzina: 20:30\nSpotkanie: Piacenza - Trentino\nTyp: DW: 1:3\nKurs: 3.35\nBukmacher: Fortuna\nAnaliza: \nTrentino się nie zatrzymuje, bez porażki, mając 1 mecz rozegrany mniej przewodzi w ligowej tabeli. W poprzedniej kolejce pokonali dużo mocniejsze od Piacenzy Lube u siebie 3:1. Ich dzisiejszy rywal nie powinien sprawić im większych problemów. Drużyna doświadczonych Kubańczyków w ostatnim czasie prezentuje się lepiej niż na początku sezonu, ale dzisiaj to może być zbyt mało na zgraną ekipę Trentino. Wygraną Trentino zapewni lepsza kadra oraz lepsza dyspozycja, Piacenza owszem również jest w nie najgorszej formie i gra u siebie, ale więcej niż seta to Trentino im raczej nie pozwoli ugrać. 3:1 dla Trentino dla mnie najbardziej prawdopodobny wynik dzisiejszego meczu.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "zerowycs",
+			"JoinedDate": "2015-11-06T00:00:00",
+			"PostsCount": 7,
+			"Reputation": 17
+		},
+		"CreatedPostDate": "2016-11-17T09:07:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T10:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 3.3,
+			"Branch": "Hokej - Rosja MHL",
+			"Analyse": "Ruski hokej. Zmierzą się dwie drużyny z końca tabeli, z tym że Tayun ma rozegrane 4 spotkania mniej, jednak i tak liczę tu na wygraną Sovetova. Gospodarze aktualnie są najgorsi jeżeli brać pod uwagę ich formę - w 5 ostatnich spotkaniach przegrali wszystkie w regulaminowym czasie gry (7 strzelonych bramek, 23 stracone). Goście natomiast w 5 ostatnich meczach zdobyli 6 punktów - 2 zwycięstwa oraz 3 porażki (21 strzelonych bramek, 20 straconych). Drużyny zmierzyły się już wczoraj, gdzie Krylya wygrała aż 4 bramkami, prawdą jest, że 4 z 5 bramek strzelali w przewadze, jedną w osłabieniu, ale to chyba dobrze pokazuje, że potrafią wykorzystywać grę, gdzie jest ich więcej, a przecież w meczu na pewno Tayfun będzie notował kary. Pod uwagę warto wziąć też to, że Tayfun w drugim meczu z tym samym przeciwnikiem częściej traci więcej bramek i uzyskuje gorsze rezultaty, a goście wręcz przeciwnie. Myślę, że warto grać na Sovetov, wczoraj po kursie 4.0 odprawili gospodarzy z kwitkiem, dziś kurs 3.3 więc też myślę, że można grać mniejszą stawką.  100"
+		},
+		"Content": "ina: Hokej - Rosja MHL Godzina: 10:00 Spotkanie: Tayfun - Krylya Sovetov Typ: 2 Kurs: 3.30 Bukmacher: OddsRing Analiza: Ruski hokej. Zmierzą się dwie drużyny z końca tabeli, z tym że Tayun ma rozegrane 4 spotkania mniej, jednak i tak liczę tu na wygraną Sovetova. Gospodarze aktualnie są najgorsi jeżeli brać pod uwagę ich formę - w 5 ostatnich spotkaniach przegrali wszystkie w regulaminowym czasie gry (7 strzelonych bramek, 23 stracone). Goście natomiast w 5 ostatnich meczach zdobyli 6 punktów - 2 zwycięstwa oraz 3 porażki (21 strzelonych bramek, 20 straconych). Drużyny zmierzyły się już wczoraj, gdzie Krylya wygrała aż 4 bramkami, prawdą jest, że 4 z 5 bramek strzelali w przewadze, jedną w osłabieniu, ale to chyba dobrze pokazuje, że potrafią wykorzystywać grę, gdzie jest ich więcej, a przecież w meczu na pewno Tayfun będzie notował kary. Pod uwagę warto wziąć też to, że Tayfun w drugim meczu z tym samym przeciwnikiem częściej traci więcej bramek i uzyskuje gorsze rezultaty, a goście wręcz przeciwnie. Myślę, że warto grać na Sovetov, wczoraj po kursie 4.0 odprawili gospodarzy z kwitkiem, dziś kurs 3.3 więc też myślę, że można grać mniejszą stawką.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "Don Diego",
+			"JoinedDate": "2014-07-20T00:00:00",
+			"PostsCount": 143,
+			"Reputation": 95
+		},
+		"CreatedPostDate": "2016-11-17T09:08:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T11:30:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 0.0,
+			"Branch": "Koszykówka - Australia NBL",
+			"Analyse": "Wicelider tabeli podejmuje dziś u siebie lidera. Stawiam w dzisiejszym meczu na Perth z powodu ich starć bezpośrednich gdzie Perth występowali jako gospodarze. Znalazłem 11 ostatnich takich meczów i w każdym z nich wygrywali gospodarze z dość wysoką przewagą punktową. Z kolei jakby patrzeć na pojedynki gdzie Sydney był gospodarzem to w nich aż 9 zwycięstw Perth na 11 meczów. \nKurs na zwycięstwo Perth bardzo fajny i dzisiaj ryzykuje typując wynik ze względu na mecze bezpośrednie.  102"
+		},
+		"Content": "\t\tDyscyplina: Koszykówka - Australia NBL\nGodzina: 11:30\nSpotkanie: Perth Wildcats - Sydney Kings\nTyp: Perth Wildcats\nKurs: 2.02\nBukmacher: Bet365\nAnaliza: \nWicelider tabeli podejmuje dziś u siebie lidera. Stawiam w dzisiejszym meczu na Perth z powodu ich starć bezpośrednich gdzie Perth występowali jako gospodarze. Znalazłem 11 ostatnich takich meczów i w każdym z nich wygrywali gospodarze z dość wysoką przewagą punktową. Z kolei jakby patrzeć na pojedynki gdzie Sydney był gospodarzem to w nich aż 9 zwycięstw Perth na 11 meczów. \nKurs na zwycięstwo Perth bardzo fajny i dzisiaj ryzykuje typując wynik ze względu na mecze bezpośrednie.  102\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "AKA SHAKAL",
+			"JoinedDate": "2009-06-15T00:00:00",
+			"PostsCount": 7272,
+			"Reputation": 13925
+		},
+		"CreatedPostDate": "2016-11-17T11:37:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T15:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 2.95,
+			"Branch": "<img src=\"https//static.fbstat.com/images/smilies/tenis.gif\" border=\"0\" alt=\"\"title=\"tenis\" class=\"inlineimg\"> Tenis - ATP World Tour Finals",
+			"Analyse": "H2H 4:0 z lat 2013-2016. Djokovic jak już większość wie nie gra swojego  najlepszego tenisa już od jakiegoś czasu, jest spokojnie do ugryzienia.  Urwał mu set Thiem i Raonic gdyby miał mocniejszą psychikę spokojnie by  to zrobił. \nTyp trochę życzeniowy, ale Serb tutaj wychodzi już z 1 miejsca więc  motywacji może zabraknąć, a z tym u niego jest problem u niego od  dłuższego czasu. \nKiedyś przegrał tutaj z Tipsarevicem, w fazie grupowej z Federerem  bodajże rok temu by później z nim wygrać spokojnie w finale. Goffin  wszedł tutaj za Gaela Monfilsa, więc mecz dla niego bardziej  turystyczny, dla kibiców. Kurs 7,00 w meczu o nic to moim zdaniem trochę  przesada, aktualnie w Bet365 jest taki, najwyższy, w żadnym innym nie ma, to trochę dziwne, że jeszcze nie spadło. \nW 2014 roku, Raonic zrezygnował z 3 meczu, wszedł za niego David Ferrer i urwał seta Nishikoriemu.  100"
+		},
+		"Content": "ina:  Tenis - ATP World Tour Finals Godzina: 15:00 Spotkanie: Djokovic N. - Goffin D.  \nTyp: Goffin D. +1,5 seta Kurs: 2.95 Bukmacher: Pinnacle Analiza: \nH2H 4:0 z lat 2013-2016. Djokovic jak już większość wie nie gra swojego  najlepszego tenisa już od jakiegoś czasu, jest spokojnie do ugryzienia.  Urwał mu set Thiem i Raonic gdyby miał mocniejszą psychikę spokojnie by  to zrobił. \nTyp trochę życzeniowy, ale Serb tutaj wychodzi już z 1 miejsca więc  motywacji może zabraknąć, a z tym u niego jest problem u niego od  dłuższego czasu. \nKiedyś przegrał tutaj z Tipsarevicem, w fazie grupowej z Federerem  bodajże rok temu by później z nim wygrać spokojnie w finale. Goffin  wszedł tutaj za Gaela Monfilsa, więc mecz dla niego bardziej  turystyczny, dla kibiców. Kurs 7,00 w meczu o nic to moim zdaniem trochę  przesada, aktualnie w Bet365 jest taki, najwyższy, w żadnym innym nie ma, to trochę dziwne, że jeszcze nie spadło. \nW 2014 roku, Raonic zrezygnował z 3 meczu, wszedł za niego David Ferrer i urwał seta Nishikoriemu.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "Pyrus122",
+			"JoinedDate": "2013-10-24T00:00:00",
+			"PostsCount": 608,
+			"Reputation": 1717
+		},
+		"CreatedPostDate": "2016-11-17T12:30:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T14:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.62,
+			"Branch": "Tenis - ITF Kobiety - Zawada",
+			"Analyse": "nis - ITF Kobiety - Zawada \nGodzina: 14:00\nSpotkanie: Shoshyna - Rosatello\nTyp: 1\nKurs: 1.62\nBukmacher: Unibet \nBardzo mało interesuje się tenisem, ale jeżeli chodzi o typy z tej dyscypliny od mojego dobrego znajomego, który obserwuje ten turniej z trybun i mówi mi że 90% szans na  to ja się długo nie zastanawiam. Jeżeli mam napisać coś o obu zawodniczkach to podobno Rosatello bardzo słabo serwuje . Ja gram i się nie zastanawiam . Powodzenia !   kiepska analiza"
+		},
+		"Content": "ina: Tenis - ITF Kobiety - Zawada \nGodzina: 14:00\nSpotkanie: Shoshyna - Rosatello\nTyp: 1\nKurs: 1.62\nBukmacher: Unibet \nBardzo mało interesuje się tenisem, ale jeżeli chodzi o typy z tej dyscypliny od mojego dobrego znajomego, który obserwuje ten turniej z trybun i mówi mi że 90% szans na  to ja się długo nie zastanawiam. Jeżeli mam napisać coś o obu zawodniczkach to podobno Rosatello bardzo słabo serwuje . Ja gram i się nie zastanawiam . Powodzenia !   kiepska analiza "
+	},
+	{
+		"Author": {
+			"Login": "psotnick",
+			"JoinedDate": "2009-07-23T00:00:00",
+			"PostsCount": 4254,
+			"Reputation": 13348
+		},
+		"CreatedPostDate": "2016-11-17T12:45:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T00:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 0.0,
+			"Branch": "</font><font face=\"&amp;quot\"> Snooker - Northern Ireland Open 2016</font>",
+			"Analyse": "Z Higginsem dość oczywista sprawa jeśli chodzi o wynik, ale też o wbite setki, bo forma Johna obiecuje i dostarcza samej snookerowej dobroci. Szkot w wybornej formie w ostatnich tygodniach, wygrał 2 duże turnieje z rzędu i w tym tygodniu nie zamierza zwalniać tempa. W pierwszym meczu skromnie, tylko setka plus 2 brejki wygrywające (70, 71, 107), za to wczoraj w meczu z Craigie'em (4-1) zafundował już prawdziwe snookerowe fajerwerki na całego, bo wbił 3 grube setki w tym brejk  maksymalny 147 (137, 130, 147). Nie ma się co nawet zastanawiać tylko brać i podziwiać szkockiego mistrza.   ZAPRASZAM DO DZIAŁU SNOOKER   100"
+		},
+		"Content": "ina: Snooker - Northern Ireland Open 2016 Godzina: 13:00 CET Spotkanie:Zhou Yuelong v John Higgins  Typ: John Higgins - powyżej 0.5 Centuries Kurs: 2,62          Bukmacher: Bet365 Analiza: \nZ Higginsem dość oczywista sprawa jeśli chodzi o wynik, ale też o wbite setki, bo forma Johna obiecuje i dostarcza samej snookerowej dobroci. Szkot w wybornej formie w ostatnich tygodniach, wygrał 2 duże turnieje z rzędu i w tym tygodniu nie zamierza zwalniać tempa. W pierwszym meczu skromnie, tylko setka plus 2 brejki wygrywające (70, 71, 107), za to wczoraj w meczu z Craigie'em (4-1) zafundował już prawdziwe snookerowe fajerwerki na całego, bo wbił 3 grube setki w tym brejk  maksymalny 147 (137, 130, 147). Nie ma się co nawet zastanawiać tylko brać i podziwiać szkockiego mistrza.   ZAPRASZAM DO DZIAŁU SNOOKER   100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "Gabka92",
+			"JoinedDate": "2011-08-06T00:00:00",
+			"PostsCount": 665,
+			"Reputation": 1753
+		},
+		"CreatedPostDate": "2016-11-17T13:34:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T18:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 2.62,
+			"Branch": "Siatkówka, Plus Liga",
+			"Analyse": "15 zespół w tabeli podejmuję 8 drużynę z Kielc. Sprawa jest bardzo dziwna, jeszcze dwa dni temu kursy na Bet365 na to spotkanie były 1.40-2.40, ale chyba się obudzili, że to jest mega promocja bo nie dość, że Kielce są wyraźnym faworytem to taki kurs? \nBielsko 4 punkty na swoim koncie po 7 meczach, Effector 12 po meczach 8.\nBielsko tylko jedna wygrana i reszta porażek, Effector ma 4 zwycięstwa i 4 porażki(w tym m.in. z Cuprum 2-3, i Jastrzębskim 2-3), więc drużynami z absolutnego TOP-u obecnego sezonu. Bielsko u siebie ma następujące wyniki: 0:3, 0:3, 0:3. A że wygra teraz nagle 3 sety a przegra świetnie radzący sobie Effector są takie same kursy? No wolne żarty, niesamowity walue. Effector na samych wyjazdach to przegrana z Gdańskiem 1:3, wygrana z Czarnymi 3:2, Katowicami 3:0, i przegrana z Olsztynem 0:3, który u siebie wszystkie mecze wygrał za 3 pkt (było to pierwsze spotkanie Kielczan w sezonie gdzie nie ugrali choćby seta). Bielsko zaś przegrało u siebie z Cuprumem 0:3(Kielczanie ugrali z nimi punkt), z Olsztynem 0:3(Effector przegrał tak samo ale w Olsztynie a nie u siebie), I z Katowicami 0:3, Effector wygrał 3:0 i to w Katowicach. Brać póki nie spadnie do 1.50! To tylko pokazuje jak wszyscy idą w tą stronę i kurs ciągle leci na łeb, mówię, 2 dni temu było 2.40 co było totalnym nieporozumieniem z ich strony, liczę na pewne zwycięstwo Effectora, zaczną od wygrania 1 seta a potem powinno być z górki!  162"
+		},
+		"Content": "\t\tDyscyplina: Siatkówka, Plus Liga\nGodzina: 18:00\nSpotkanie: Bielsko Biała - Effector\nTyp: Effector WYGRA pierwszy set i WYGRA cały mecz\nKurs: 2.62\nBukmacher: Bet365\nAnaliza: \n15 zespół w tabeli podejmuję 8 drużynę z Kielc. Sprawa jest bardzo dziwna, jeszcze dwa dni temu kursy na Bet365 na to spotkanie były 1.40-2.40, ale chyba się obudzili, że to jest mega promocja bo nie dość, że Kielce są wyraźnym faworytem to taki kurs? \nBielsko 4 punkty na swoim koncie po 7 meczach, Effector 12 po meczach 8.\nBielsko tylko jedna wygrana i reszta porażek, Effector ma 4 zwycięstwa i 4 porażki(w tym m.in. z Cuprum 2-3, i Jastrzębskim 2-3), więc drużynami z absolutnego TOP-u obecnego sezonu. Bielsko u siebie ma następujące wyniki: 0:3, 0:3, 0:3. A że wygra teraz nagle 3 sety a przegra świetnie radzący sobie Effector są takie same kursy? No wolne żarty, niesamowity walue. Effector na samych wyjazdach to przegrana z Gdańskiem 1:3, wygrana z Czarnymi 3:2, Katowicami 3:0, i przegrana z Olsztynem 0:3, który u siebie wszystkie mecze wygrał za 3 pkt (było to pierwsze spotkanie Kielczan w sezonie gdzie nie ugrali choćby seta). Bielsko zaś przegrało u siebie z Cuprumem 0:3(Kielczanie ugrali z nimi punkt), z Olsztynem 0:3(Effector przegrał tak samo ale w Olsztynie a nie u siebie), I z Katowicami 0:3, Effector wygrał 3:0 i to w Katowicach. Brać póki nie spadnie do 1.50! To tylko pokazuje jak wszyscy idą w tą stronę i kurs ciągle leci na łeb, mówię, 2 dni temu było 2.40 co było totalnym nieporozumieniem z ich strony, liczę na pewne zwycięstwo Effectora, zaczną od wygrania 1 seta a potem powinno być z górki!  162\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "Gladiators",
+			"JoinedDate": "2007-11-19T00:00:00",
+			"PostsCount": 252,
+			"Reputation": 185
+		},
+		"CreatedPostDate": "2016-11-17T13:36:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T15:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.6,
+			"Branch": "Tenis - World Tour Finals - London",
+			"Analyse": "Dotąd z loży vipowskiej David Goffin oglądał zmagania najlepszych tenisistów tego sezonu. W ostatnim meczu fazy grupowej zaprezentuje się szerokiej publiczności zastępując na korcie Gaela Monfisa, który po dwóch porażkach nie dotrwał do meczu z Novakiem Djokoviciem. Niespełna miesiąc temu Belg rozegrał świetny, zwycięski mecz z wyżej notowanym Francuzem i widać, że jest dobrze przygotowany do starcia z Serbem. Novak Djokovic ma już zapewniony awans z pierwszego miejsca, co nie znaczy, że będzie grał nonszalancko. Oceniając jednak formę wicelidera ATP oraz to, że obaj zagrają jednak bez presji wyniku, możemy spodziewać się otwartej gry i dość wyrównanej batalii na korcie. W tym roku spotkali się dwukrotnie. Oba mecze były bardzo zacięte i zakończone wynikiem 1-1. Stawiam, że Goffin ponownie pokaże swoje wysokie umiejętności mieszcząc się w buforze dodatnich gemów.   100"
+		},
+		"Content": "ina: Tenis - World Tour Finals - London Godzina: 15:00 Spotkanie: Novak Djokovic - David Goffin  Typ: Goffin +5,5 gema Kurs: 1.60 Bukmacher: OddsRing \nAnaliza: Dotąd z loży vipowskiej David Goffin oglądał zmagania najlepszych tenisistów tego sezonu. W ostatnim meczu fazy grupowej zaprezentuje się szerokiej publiczności zastępując na korcie Gaela Monfisa, który po dwóch porażkach nie dotrwał do meczu z Novakiem Djokoviciem. Niespełna miesiąc temu Belg rozegrał świetny, zwycięski mecz z wyżej notowanym Francuzem i widać, że jest dobrze przygotowany do starcia z Serbem. Novak Djokovic ma już zapewniony awans z pierwszego miejsca, co nie znaczy, że będzie grał nonszalancko. Oceniając jednak formę wicelidera ATP oraz to, że obaj zagrają jednak bez presji wyniku, możemy spodziewać się otwartej gry i dość wyrównanej batalii na korcie. W tym roku spotkali się dwukrotnie. Oba mecze były bardzo zacięte i zakończone wynikiem 1-1. Stawiam, że Goffin ponownie pokaże swoje wysokie umiejętności mieszcząc się w buforze dodatnich gemów.   100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "Maciekfansport",
+			"JoinedDate": "2013-11-23T00:00:00",
+			"PostsCount": 87,
+			"Reputation": 56
+		},
+		"CreatedPostDate": "2016-11-17T13:57:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T17:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.59,
+			"Branch": "Koszykówka - Euroliga",
+			"Analyse": "Na tapete wzialem spotkanie 8 kolejki Euroligi Mezczyzn Unics Kazan vs Maccabi TA.\nObie drużyny grały swój ostatni mecz w tych rozgrywkach 15 Listopada, Unics przegrał w Turcji z Anadolu 104:99, świetny mecz w wykonaniu Langforda oraz Parakhouskiego 20p - nie wystarczył do zwycięstwa Kazania. Jednak dziś jestem pozytywnej myśli.\nMaccabi wygrało z kolei u siebie z Fenerbahce 87:77 które przegrało 3 kolejne mecze z rzędu w Eurolidze!.\nJohnson (Unics) zagrał w drugim meczu w Eurolidze i nieżle się spisał- zagrał tylko 11 minut i zdobył 10pkt. W poprzednim meczu 5pkt zdobył z Crveną.\nDrużyna z Kazania planowała sprowadzić jeszcze jednego Amerykanina - Lorenzo Browna - jednak transfer spalił na panewce.\nMaccabi na wyjeżdzie w tym sezonie w Eurolidze spisuje się dość dobrze - wygrana z Żalgrisem, porażka z Panathinakosem po dogrywce! oraz porażka w Milanie 99:97.\nMaccabi wzmocniło się przed sezonem.. doszedł min V.Rudd który świetnie sobie radził w NN, w poprzednim meczu z Fener zdobył 10pkt.\nNie radzi sobie jak narazie DJ Seleey sprowadzony z Gran Canaria.\nDrużyna oparta na Amerykanach - jest DJ,Rudd,Weems,Smith czy Iverson.\nW ostatnim meczu Euroligowym nie grał Goudelock sprowadzony z USA który się zmaga z urazem kostki, dalej kontuzje liczy Miller sprowadzony z Crveny.\nUważam że goście powalczą w tym meczu i ostatecznie nie przegrają więcej niż 4 punktami.\nUważam  59"
+		},
+		"Content": "\t\tDyscyplina: Koszykówka - Euroliga \nGodzina: 17:00\nSpotkanie: Unics - Maccabi\nTyp: 2(+4.5)\nKurs: 1,59\nBukmacher: Unibet\nAnaliza:  \nNa tapete wzialem spotkanie 8 kolejki Euroligi Mezczyzn Unics Kazan vs Maccabi TA.\nObie drużyny grały swój ostatni mecz w tych rozgrywkach 15 Listopada, Unics przegrał w Turcji z Anadolu 104:99, świetny mecz w wykonaniu Langforda oraz Parakhouskiego 20p - nie wystarczył do zwycięstwa Kazania. Jednak dziś jestem pozytywnej myśli.\nMaccabi wygrało z kolei u siebie z Fenerbahce 87:77 które przegrało 3 kolejne mecze z rzędu w Eurolidze!.\nJohnson (Unics) zagrał w drugim meczu w Eurolidze i nieżle się spisał- zagrał tylko 11 minut i zdobył 10pkt. W poprzednim meczu 5pkt zdobył z Crveną.\nDrużyna z Kazania planowała sprowadzić jeszcze jednego Amerykanina - Lorenzo Browna - jednak transfer spalił na panewce.\nMaccabi na wyjeżdzie w tym sezonie w Eurolidze spisuje się dość dobrze - wygrana z Żalgrisem, porażka z Panathinakosem po dogrywce! oraz porażka w Milanie 99:97.\nMaccabi wzmocniło się przed sezonem.. doszedł min V.Rudd który świetnie sobie radził w NN, w poprzednim meczu z Fener zdobył 10pkt.\nNie radzi sobie jak narazie DJ Seleey sprowadzony z Gran Canaria.\nDrużyna oparta na Amerykanach - jest DJ,Rudd,Weems,Smith czy Iverson.\nW ostatnim meczu Euroligowym nie grał Goudelock sprowadzony z USA który się zmaga z urazem kostki, dalej kontuzje liczy Miller sprowadzony z Crveny.\nUważam że goście powalczą w tym meczu i ostatecznie nie przegrają więcej niż 4 punktami.\nUważam  59\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "Fahrenheit451",
+			"JoinedDate": "2015-12-10T00:00:00",
+			"PostsCount": 86,
+			"Reputation": 119
+		},
+		"CreatedPostDate": "2016-11-17T14:06:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T14:30:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 2.94,
+			"Branch": "Piłka Nożna -Indie, ISL",
+			"Analyse": "Oba zespoły na pozór dzieli sporo: Atletico w środku tabeli, North East na końcu. Ale: w lidze indyjskiej gra 8 zespołów, więc tak naprawdę dzielą je 4 miejsca. North East nie wygrał od 5 meczów, 4 ostatnie przegrał, wszystkie minimalnie - różnicą jednej bramki. 2 z nich zakończyły się 0:1. Tak też zakończyły się 2 ostatnie mecze tych ekip na boisku w Kalkucie: rok temu wygrali goście, dwa lata temu gospodarze. W meczach między sobą, z wyjątkiem jednego przypadku, obie drużyny oddają po 3-4 celne strzały. Kto pierwszy strzeli, będzie bronił zwycięstwa. Jeśli je dowiezie do końca, typ wchodzi.  100"
+		},
+		"Content": "\t\tDyscyplina: Piłka Nożna -Indie, ISL\nGodzina: 14:30\nSpotkanie: Atletico de Kolkata - North East United\nTyp: Poniżej 1.5 gola\nKurs: 2.94\nBukmacher: OddsRing\nAnaliza:\nOba zespoły na pozór dzieli sporo: Atletico w środku tabeli, North East na końcu. Ale: w lidze indyjskiej gra 8 zespołów, więc tak naprawdę dzielą je 4 miejsca. North East nie wygrał od 5 meczów, 4 ostatnie przegrał, wszystkie minimalnie - różnicą jednej bramki. 2 z nich zakończyły się 0:1. Tak też zakończyły się 2 ostatnie mecze tych ekip na boisku w Kalkucie: rok temu wygrali goście, dwa lata temu gospodarze. W meczach między sobą, z wyjątkiem jednego przypadku, obie drużyny oddają po 3-4 celne strzały. Kto pierwszy strzeli, będzie bronił zwycięstwa. Jeśli je dowiezie do końca, typ wchodzi.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "Kuchcik",
+			"JoinedDate": "2010-12-28T00:00:00",
+			"PostsCount": 2285,
+			"Reputation": 4128
+		},
+		"CreatedPostDate": "2016-11-17T14:15:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T21:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 2.0,
+			"Branch": "Tenis - World Tour Finals, Londyn",
+			"Analyse": "Nie będę podważać tego, że Kanadyjczyk jest faworytem i prezentuje się dużo bardziej regularnie. Niemniej, obaj jeszcze walczą o awans i Dominik się po jednym przełamaniu w secie nie położy. Nie jest przecież tak, że albo Raonic, albo żaden z nich. Została już słusznie zauważona bardzo dobra gra Austriaka w pierwszych partiach i to też może wykorzystać. Ciężko jest przejść obok takiego kursu, na wygranie de facto jednego seta, gdy mamy taką nawałnicę typów w kierunku Raonica. To może być bardzo emocjonujący mecz i jeśli Thiem wejdzie na swój wysoki poziom, powinno być przynajmniej close game. Jest value.  100"
+		},
+		"Content": "ina: Tenis - World Tour Finals, Londyn Godzina: 21:00 Spotkanie: Raonic - Thiem Typ: Thiem +1.5 seta Kurs: 2.00 Bukmacher: Pinnacle\nAnaliza: \nNie będę podważać tego, że Kanadyjczyk jest faworytem i prezentuje się dużo bardziej regularnie. Niemniej, obaj jeszcze walczą o awans i Dominik się po jednym przełamaniu w secie nie położy. Nie jest przecież tak, że albo Raonic, albo żaden z nich. Została już słusznie zauważona bardzo dobra gra Austriaka w pierwszych partiach i to też może wykorzystać. Ciężko jest przejść obok takiego kursu, na wygranie de facto jednego seta, gdy mamy taką nawałnicę typów w kierunku Raonica. To może być bardzo emocjonujący mecz i jeśli Thiem wejdzie na swój wysoki poziom, powinno być przynajmniej close game. Jest value.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "marfi",
+			"JoinedDate": "2012-02-20T00:00:00",
+			"PostsCount": 394,
+			"Reputation": 592
+		},
+		"CreatedPostDate": "2016-11-17T14:54:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T23:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.91,
+			"Branch": "Koszykówka - NCAA",
+			"Analyse": "Próbujemy kosza uniwersyteckiego. Po pierwsze, grają na neutralnym terenie, więć Knights nie mają przewagi własnego parkietu. Po drugie i chyba najważniejsze - Knights  bez bodaj najważniejszego zawodnika A.J. Davisa. Nie mamy żadnego meczu H2H, żeby porównać. W tym sezonie oba zespoły wygrały w pierwszym spotkaniu. Warto więc spojrzeć na wyniki ostatniego sezonu. Knights bilans 12-18, a Missisipi 14-16. Kursy już poleciały na Pinku, ale do wieczora spadną pewnie jeszcze trochę. IMO bardzo fajny typ.  100"
+		},
+		"Content": "\t\tDyscyplina: Koszykówka - NCAA\nGodzina: 23:00\nSpotkanie: UCF Knights - Mississippi St.\nTyp: 2 (-5 AH)\nKurs: 1,91\nBukmacher: WilliamHill\nAnaliza: \nPróbujemy kosza uniwersyteckiego. Po pierwsze, grają na neutralnym terenie, więć Knights nie mają przewagi własnego parkietu. Po drugie i chyba najważniejsze - Knights  bez bodaj najważniejszego zawodnika A.J. Davisa. Nie mamy żadnego meczu H2H, żeby porównać. W tym sezonie oba zespoły wygrały w pierwszym spotkaniu. Warto więc spojrzeć na wyniki ostatniego sezonu. Knights bilans 12-18, a Missisipi 14-16. Kursy już poleciały na Pinku, ale do wieczora spadną pewnie jeszcze trochę. IMO bardzo fajny typ.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "domel206",
+			"JoinedDate": "2012-11-14T00:00:00",
+			"PostsCount": 97,
+			"Reputation": 420
+		},
+		"CreatedPostDate": "2016-11-17T15:04:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T15:10:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.44,
+			"Branch": "Tenis - ATP World Tour Finals",
+			"Analyse": "siema, bardzo szybko bo mecza za okolo 15/20 minut  z uwagi na spóźnienie.\nProponuję na dziś wygraną Serba w 2 setach. Tutaj mecz będzie bez większej historii. Belg przyjechał po kase wyjdzie na kort zgarnie kase i pojedzie. Serb po 2 wygranych na pewno zyskał trochę pewności siebie, dziś zagra bez presjii i jest w tym meczu faworytem. Djokovic nie kalkuje on gra przeważnie na maksa lubi wygrywać i dzis nie widze innej opcjii. Kurs moze nie powala ale do podbicia ako, moim zdaniem lokata. Jesli chodzi o ich h2h to djoko na 6 spotkan wygral 5 i raz przegral w tym roku ale byl to mecz na kortach trawiastych gdzie Djoko w tym roku poprostu gral źle. Goffin w moim odczucie nie ma tutaj żadnych argumentów aby ugrać chociaż jednego seta. Każdy pkt będzie musial mozolonie wybiegać, jego serwis nie zrobi tutaj kompletnie różnicy i Belg już przy swoim podaniu będzie musial się mega wysilić. Mam nadzieje ze zobaczymy fajne widowisko ale wynik dla mnie jest tutaj przesądzony   44"
+		},
+		"Content": "\t\tDyscyplina:  Tenis - ATP World Tour Finals\nGodzina: 15:10\nSpotkanie: Djokovic N. - Goffin D. \nTyp: Djokovic 2:0\nKurs: 1.44\nBukmacher: sportinbet\nAnaliza: \nsiema, bardzo szybko bo mecza za okolo 15/20 minut  z uwagi na spóźnienie.\nProponuję na dziś wygraną Serba w 2 setach. Tutaj mecz będzie bez większej historii. Belg przyjechał po kase wyjdzie na kort zgarnie kase i pojedzie. Serb po 2 wygranych na pewno zyskał trochę pewności siebie, dziś zagra bez presjii i jest w tym meczu faworytem. Djokovic nie kalkuje on gra przeważnie na maksa lubi wygrywać i dzis nie widze innej opcjii. Kurs moze nie powala ale do podbicia ako, moim zdaniem lokata. Jesli chodzi o ich h2h to djoko na 6 spotkan wygral 5 i raz przegral w tym roku ale byl to mecz na kortach trawiastych gdzie Djoko w tym roku poprostu gral źle. Goffin w moim odczucie nie ma tutaj żadnych argumentów aby ugrać chociaż jednego seta. Każdy pkt będzie musial mozolonie wybiegać, jego serwis nie zrobi tutaj kompletnie różnicy i Belg już przy swoim podaniu będzie musial się mega wysilić. Mam nadzieje ze zobaczymy fajne widowisko ale wynik dla mnie jest tutaj przesądzony   44\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "banana1987r",
+			"JoinedDate": "2013-03-14T00:00:00",
+			"PostsCount": 155,
+			"Reputation": 402
+		},
+		"CreatedPostDate": "2016-11-17T16:18:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T19:30:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 0.0,
+			"Branch": "Piłka nożna Rumunia Puchar",
+			"Analyse": "Witam i z miejsca przepraszam za wczorajszą wtopę z Maccabi U19, mecz śledziłem  powinni byli wygrać... może sta tak duży kurs na nich bo o czymś nie wiedziałem o czym wiedzili bukmacherzy.... ale stało sie :/   \nDzisiaj bezpieczniej... bynajmniej w mojej opinii nie dość że to puchar to grają ze sobą bardzo ,,dziwne&quot; zespoły. Dlaczego dziwne ? bo w tym momencie nie można po prostu powiedzieć kto jest lepszy... każda z tych drużyn gra w kratkę w szczególności Astra od której powinno się wymagać znacznie wiecej, zaś Din Bucharest zaczeło dość fajnie jak na nich. \nOba zespoły tracą i strzelają... wystarczy popatrzeć w h2h żeby się przekonać skad pomysł zagrania na bramki dla obu drużyn.\nwiec tak na ostatnie 10 meczy Astry u siebie tylko 3 razy oba zespoły nie trafiały, zaś wyjazdy Din. Bucharest 10 meczy i tylko 1 raz wynik 0-0 z Cluj, ale to było bardzo dawno  \nDruga sprawa że jest to spotkanie pucharowe, jak wiadomo do takich spotkań podchodzi się różnie, żeby nie powiedzieć że czasem, testuje sie nowe ustawienia czy nowych piłkarzy wyciąganych z zaplecza drużyny... co też powoduje brak zgrania i możliwość stracenia bramki. \nKurs nie wielki, ale można z czymś połączyć.... Proponuje też over 2.5 i obie strzelą kursy około 2.25  73"
+		},
+		"Content": "\t\tDyscyplina: Piłka nożna Rumunia Puchar\nGodzina: 19:30\nSpotkanie: Astra - Din. Bucharest\nTyp:  obie strzelą\nKurs: 1.73\nBukmacher: Bet365\nAnaliza: \nWitam i z miejsca przepraszam za wczorajszą wtopę z Maccabi U19, mecz śledziłem  powinni byli wygrać... może sta tak duży kurs na nich bo o czymś nie wiedziałem o czym wiedzili bukmacherzy.... ale stało sie :/   \nDzisiaj bezpieczniej... bynajmniej w mojej opinii nie dość że to puchar to grają ze sobą bardzo ,,dziwne&quot; zespoły. Dlaczego dziwne ? bo w tym momencie nie można po prostu powiedzieć kto jest lepszy... każda z tych drużyn gra w kratkę w szczególności Astra od której powinno się wymagać znacznie wiecej, zaś Din Bucharest zaczeło dość fajnie jak na nich. \nOba zespoły tracą i strzelają... wystarczy popatrzeć w h2h żeby się przekonać skad pomysł zagrania na bramki dla obu drużyn.\nwiec tak na ostatnie 10 meczy Astry u siebie tylko 3 razy oba zespoły nie trafiały, zaś wyjazdy Din. Bucharest 10 meczy i tylko 1 raz wynik 0-0 z Cluj, ale to było bardzo dawno  \nDruga sprawa że jest to spotkanie pucharowe, jak wiadomo do takich spotkań podchodzi się różnie, żeby nie powiedzieć że czasem, testuje sie nowe ustawienia czy nowych piłkarzy wyciąganych z zaplecza drużyny... co też powoduje brak zgrania i możliwość stracenia bramki. \nKurs nie wielki, ale można z czymś połączyć.... Proponuje też over 2.5 i obie strzelą kursy około 2.25  73  "
+	},
+	{
+		"Author": {
+			"Login": "Rozmar",
+			"JoinedDate": "2013-08-15T00:00:00",
+			"PostsCount": 156,
+			"Reputation": 41
+		},
+		"CreatedPostDate": "2016-11-17T16:45:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T17:30:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.71,
+			"Branch": "Hokej, KHL",
+			"Analyse": "Na dzisiaj szukałem czegoś ciekawego i chyba znalazłem.\nPod lupe wziąłem spotkanie rosyjskiego hokeja. \nZespół z St. Petersburga podejmie zespół Yekaterinburg. Patrząc na miejsca zajmowane do tej pory zmierzy sie lider zachodniej konfederacji z 13 zespołem konfederacji wschodniej. Oba zespoły dzieli przepaść, St petersburg w ostatnich meczach u siebie spisuje sie znakomicie. Zdobywają mnustwo bramek przy czym tracą niewiele. \nJeśli chodzi o zespół Yekaterinburgu to jest zupełnie odwrotnie jeśli chodzi o mecze wyjazdowe. Zawodnicy tracą bardzo dużo bramek przy czym zdowbywają strasznie mało trafień. \nMyślę, że handicap 2,5 bramki po takim kursie jest zdecydowanie propozycją wartą zagrania dzisiaj tego zdarzenia.  100"
+		},
+		"Content": "ina: Hokej, KHL Godzina: 17:30 Spotkanie: SKA St. Petersburg - Yekaterinburg Typ: 1 (-2,5 handicap) Kurs: 1,71 Bukmacher: Bwin Analiza: \nNa dzisiaj szukałem czegoś ciekawego i chyba znalazłem.\nPod lupe wziąłem spotkanie rosyjskiego hokeja. \nZespół z St. Petersburga podejmie zespół Yekaterinburg. Patrząc na miejsca zajmowane do tej pory zmierzy sie lider zachodniej konfederacji z 13 zespołem konfederacji wschodniej. Oba zespoły dzieli przepaść, St petersburg w ostatnich meczach u siebie spisuje sie znakomicie. Zdobywają mnustwo bramek przy czym tracą niewiele. \nJeśli chodzi o zespół Yekaterinburgu to jest zupełnie odwrotnie jeśli chodzi o mecze wyjazdowe. Zawodnicy tracą bardzo dużo bramek przy czym zdowbywają strasznie mało trafień. \nMyślę, że handicap 2,5 bramki po takim kursie jest zdecydowanie propozycją wartą zagrania dzisiaj tego zdarzenia.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "wielki_gracz",
+			"JoinedDate": "2016-07-02T00:00:00",
+			"PostsCount": 453,
+			"Reputation": 233
+		},
+		"CreatedPostDate": "2016-11-17T16:49:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T18:30:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.85,
+			"Branch": "Hokej - Norwegia, Get-ligaen",
+			"Analyse": "Bardzo długo dzisiaj myślałem nad typami ale ciężko mi coś było wyłapać, jednak zdecydowałem się ostatecznie na ten typ z najwyższej klasy rozgrywkowej norweskiego hokeja. Tabela wygląda tak   \nWyżej w tabeli są goście, chociaż od miejsca 5 do 8 jest niewielka różnica punktowa i w ciągu sezonu jeszcze napewno wiele się zmieni. U siebie Sarpsborg gra dość stabilnie zajmując pod tym względem 3 miejsce w tabeli z bilansem 5 wygranych, 3 porażek i 1 porażki po dogrywce. Stjernen z kolei na wyjazdach gra dobrze, o wiele lepiej niż na własnym lodowisku i zanotowali jak dotąd 6 wygranych i 3 porażki. Oba zespoły zagrają dzisiaj w swoich najmocniejszych składach. Jedynymi nieobecnymi na to spotkanie są dwaj gracze w ekipie Stjernen obrońca Hjelm i napastnik Lindahl. Nie są to jakieś poważne absencje nie do zastąpienia także można powiedzieć, że obie ekipy w swych najmocniejszych zestawieniach dziś. W obu zespołach czołowymi postaciami są Szwedzi. W ekipie gospodarzy jest to Malmstrom a u gości Backman i myślę, że wygra dzisiaj zespół u którego wyższa dyspozycją popisze się jeden z wymienionych graczy. W tym meczu bardziej liczę jednak na to, że będzie to Malmstrom i pokieruje Spartą ku wygranej. Oba zespoły ostatnio grają w kratkę jednak Sparta u siebie traci mało bramek i jest pod tym względem druga drużyną w lidze. Stjernen ostatnio traci bardzo dużo goli, biorąc pod uwagę 3 ostatnie spotkania to stracili aż 18 goli ! Widać więc, że coś się popsuło w grze obronnej gości ostatnio i liczę, że jeszcze w tym meczu się to nie poprawi. Oba zespoły są nieobliczalne, bo potrafią wygrać z zespołem teoretycznie silniejszym, który zajmuje jedno z czołowych miejsc, by następny mecz jako faworyt przegrać. Ja jednak tutaj stawiam na gospodarzy, bo u siebie jest to zespół dość stabilny, ułożony i na własnym lodowisku ciężki im strzelić gola. Stjernen bardzo dużo goli traci i myślę, że dzisiaj w takiej dyspozycji obronnej nie mają dziś czego szukać. Jak nie poprawią w tym meczu swojej gry obronnej to myślę, że Sparta dziś nie da im najmniejszych szans i na to liczę.  100"
+		},
+		"Content": "ina: Hokej - Norwegia, Get-ligaen Godzina: 18:30 Spotkanie: Sparta Sarpsborg - Stjernen Hockey Typ: 1 Kurs: 1.85 Bukmacher: Unibet Analiza:\nBardzo długo dzisiaj myślałem nad typami ale ciężko mi coś było wyłapać, jednak zdecydowałem się ostatecznie na ten typ z najwyższej klasy rozgrywkowej norweskiego hokeja. Tabela wygląda tak   \nWyżej w tabeli są goście, chociaż od miejsca 5 do 8 jest niewielka różnica punktowa i w ciągu sezonu jeszcze napewno wiele się zmieni. U siebie Sarpsborg gra dość stabilnie zajmując pod tym względem 3 miejsce w tabeli z bilansem 5 wygranych, 3 porażek i 1 porażki po dogrywce. Stjernen z kolei na wyjazdach gra dobrze, o wiele lepiej niż na własnym lodowisku i zanotowali jak dotąd 6 wygranych i 3 porażki. Oba zespoły zagrają dzisiaj w swoich najmocniejszych składach. Jedynymi nieobecnymi na to spotkanie są dwaj gracze w ekipie Stjernen obrońca Hjelm i napastnik Lindahl. Nie są to jakieś poważne absencje nie do zastąpienia także można powiedzieć, że obie ekipy w swych najmocniejszych zestawieniach dziś. W obu zespołach czołowymi postaciami są Szwedzi. W ekipie gospodarzy jest to Malmstrom a u gości Backman i myślę, że wygra dzisiaj zespół u którego wyższa dyspozycją popisze się jeden z wymienionych graczy. W tym meczu bardziej liczę jednak na to, że będzie to Malmstrom i pokieruje Spartą ku wygranej. Oba zespoły ostatnio grają w kratkę jednak Sparta u siebie traci mało bramek i jest pod tym względem druga drużyną w lidze. Stjernen ostatnio traci bardzo dużo goli, biorąc pod uwagę 3 ostatnie spotkania to stracili aż 18 goli ! Widać więc, że coś się popsuło w grze obronnej gości ostatnio i liczę, że jeszcze w tym meczu się to nie poprawi. Oba zespoły są nieobliczalne, bo potrafią wygrać z zespołem teoretycznie silniejszym, który zajmuje jedno z czołowych miejsc, by następny mecz jako faworyt przegrać. Ja jednak tutaj stawiam na gospodarzy, bo u siebie jest to zespół dość stabilny, ułożony i na własnym lodowisku ciężki im strzelić gola. Stjernen bardzo dużo goli traci i myślę, że dzisiaj w takiej dyspozycji obronnej nie mają dziś czego szukać. Jak nie poprawią w tym meczu swojej gry obronnej to myślę, że Sparta dziś nie da im najmniejszych szans i na to liczę.  100\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "Przemas92ck",
+			"JoinedDate": "2015-09-20T00:00:00",
+			"PostsCount": 63,
+			"Reputation": 33
+		},
+		"CreatedPostDate": "2016-11-17T17:01:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T21:15:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 2.37,
+			"Branch": "Piłka nożna - Puchar Portugalii",
+			"Analyse": "plina:Piłka nożna - Puchar Portugalii\nGodz: 21:15\nSpotkanie : Sporting - SC Praiense \nTyp: Poniżej 3,5 gola\nKurs: 2,37\nBukmacher: Bet365 \nWitam wszystkich w kolejnym dniu, w którym zdecydowałem się na mecz pucharowy z Portugalii pomiędzy Sporting Lizbona, a drużyną która jest wielką niespodzianką oczywiście w pozytywnym znaczeniu tych zawodów, a mowa o SC Praiense. Droga obydwu drużyny do 1/16 tych rozgrywek była okupiona mniejszym, bądź większym trudem. Goście trafilu na początku rozgrywek na zespół Sporting Ideal i wygrali bez większych problemów 0:2, następnie w  1/64 trafili na Coimboes i padł hokejowy wynik 2:5, następnie na ich drodze pojawiło się Farense z którym wygrali 1:3, dzisiaj trafili na jedną z najsilniejszych drużyn ligi portugalskiej, która oczywiście jest faworytem tego pojedynku bez dwóch zdań, lecz jestem pewien że goście nie podejdą do tego pojedynku ze spuszczonymi głowami tylko pokażą, że nie znaleźli się tutaj przypadkowo. Ciekawostką jest to, że rozstawiony Sporting w 1/32 trafił na drugoligowe Farmalico z którym mimo strzelonej szybko bramki w dziesiątej minucie, mimo to nie potrafili podwyższyć wyniku i mecz zakończył się skromnym zwycięstwem 0:1, warto dodać że w Segunda Liga nie grają nic wielkiego i są zapleczem ligi. Uważam, że Praiense nie bez przypadku znaleźli się tutaj i dziś postawią się faworyzowanemu Sportingowi, który w ostatnim czasie nie gra nic nadzwyczajnego, tylko zremisowali z Tondelą  1:1, następnie bezbramkowo zakończył się mecz z Nacional, porażka w Dortmundzie 1:0 i ostatni mecz wygrany z Arouca 3:0. Ponadto w dzisiejszym meczu ma nie zagrać kilku podstawowych zawodników co wpłynie na obniżenie siły ofensywnej gospodarzy. Sądzę, że dzisiaj nie padnie więcej niż trzy bramki, jeśli goście podejdą do tego pojedynku z zaangażowaniem i determinacją, tak jak miało to miejsce w poprzednich meczach.  137"
+		},
+		"Content": "\t\tDyscyplina:Piłka nożna - Puchar Portugalii\nGodz: 21:15\nSpotkanie : Sporting - SC Praiense \nTyp: Poniżej 3,5 gola\nKurs: 2,37\nBukmacher: Bet365 \nWitam wszystkich w kolejnym dniu, w którym zdecydowałem się na mecz pucharowy z Portugalii pomiędzy Sporting Lizbona, a drużyną która jest wielką niespodzianką oczywiście w pozytywnym znaczeniu tych zawodów, a mowa o SC Praiense. Droga obydwu drużyny do 1/16 tych rozgrywek była okupiona mniejszym, bądź większym trudem. Goście trafilu na początku rozgrywek na zespół Sporting Ideal i wygrali bez większych problemów 0:2, następnie w  1/64 trafili na Coimboes i padł hokejowy wynik 2:5, następnie na ich drodze pojawiło się Farense z którym wygrali 1:3, dzisiaj trafili na jedną z najsilniejszych drużyn ligi portugalskiej, która oczywiście jest faworytem tego pojedynku bez dwóch zdań, lecz jestem pewien że goście nie podejdą do tego pojedynku ze spuszczonymi głowami tylko pokażą, że nie znaleźli się tutaj przypadkowo. Ciekawostką jest to, że rozstawiony Sporting w 1/32 trafił na drugoligowe Farmalico z którym mimo strzelonej szybko bramki w dziesiątej minucie, mimo to nie potrafili podwyższyć wyniku i mecz zakończył się skromnym zwycięstwem 0:1, warto dodać że w Segunda Liga nie grają nic wielkiego i są zapleczem ligi. Uważam, że Praiense nie bez przypadku znaleźli się tutaj i dziś postawią się faworyzowanemu Sportingowi, który w ostatnim czasie nie gra nic nadzwyczajnego, tylko zremisowali z Tondelą  1:1, następnie bezbramkowo zakończył się mecz z Nacional, porażka w Dortmundzie 1:0 i ostatni mecz wygrany z Arouca 3:0. Ponadto w dzisiejszym meczu ma nie zagrać kilku podstawowych zawodników co wpłynie na obniżenie siły ofensywnej gospodarzy. Sądzę, że dzisiaj nie padnie więcej niż trzy bramki, jeśli goście podejdą do tego pojedynku z zaangażowaniem i determinacją, tak jak miało to miejsce w poprzednich meczach.  137\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "oracle77",
+			"JoinedDate": "2014-09-19T00:00:00",
+			"PostsCount": 13,
+			"Reputation": 7
+		},
+		"CreatedPostDate": "2016-11-17T17:54:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T18:00:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 2.5,
+			"Branch": "Siatkówka - Polska Orlen Liga",
+			"Analyse": "Czy beniaminek z Łodzi jest w stanie ugrać seta z Mistrzyniami Polski? Uważam, że tak -argumenty  za:\n1. ŁKS pokonał 3:2 u siebie niecały miesiąc temu inna topową drużynę-Impel Wrocław, z którą Chemik przegrał 1 z 2 meczy w tamtym sezonie.\n2. Chemik stracony set w domu z przedostatnim Ostrowcem Świętokrzyskimi i aż 2 w Rzeszowie pokazują, że drużyna jest do 'ugryzienia'.\n3. ŁKS jako beniaminek będzie chciał się zaprezentować przyzwoicie przed własną publicznością i zacząć od wygranego seta, żeby później nie gonić wyniku.\n4. A poza tym grają kobiety, nigdy nie wiadomo co się może tak naprawdę wydarzyć; Łodzianki na pewno nie wyjdą na trzęsących się nogach, bo... grają z Chemikiem, skoro mają na rozkładzie Wrocław. \nPowodzenia  150"
+		},
+		"Content": "\t\tDyscyplina: Siatkówka - Polska Orlen Liga\nGodzina : 18:00\nSpotkanie: ŁKS Łódź - Chemik Police\nTyp: +2,5 seta ŁKS Łódź\nKurs: 2,5\nBukmacher: Bet365\nAnaliza:\nCzy beniaminek z Łodzi jest w stanie ugrać seta z Mistrzyniami Polski? Uważam, że tak -argumenty  za:\n1. ŁKS pokonał 3:2 u siebie niecały miesiąc temu inna topową drużynę-Impel Wrocław, z którą Chemik przegrał 1 z 2 meczy w tamtym sezonie.\n2. Chemik stracony set w domu z przedostatnim Ostrowcem Świętokrzyskimi i aż 2 w Rzeszowie pokazują, że drużyna jest do 'ugryzienia'.\n3. ŁKS jako beniaminek będzie chciał się zaprezentować przyzwoicie przed własną publicznością i zacząć od wygranego seta, żeby później nie gonić wyniku.\n4. A poza tym grają kobiety, nigdy nie wiadomo co się może tak naprawdę wydarzyć; Łodzianki na pewno nie wyjdą na trzęsących się nogach, bo... grają z Chemikiem, skoro mają na rozkładzie Wrocław. \nPowodzenia  150\r\n\t\t"
+	},
+	{
+		"Author": {
+			"Login": "MeFiuU",
+			"JoinedDate": "2015-05-14T00:00:00",
+			"PostsCount": 423,
+			"Reputation": 705
+		},
+		"CreatedPostDate": "2016-11-17T21:15:00",
+		"Prediction": {
+			"EventDate": "2016-11-07T21:30:00",
+			"IsWon": "not decided",
+			"Title": "just grab another pawn!",
+			"Odds": 1.76,
+			"Branch": "Tenis, Challenger - Montevideo",
+			"Analyse": "Analiza krótka, bo za parę chwil zaczynają. W drugiej rundzie Challengera w stolicy Urugwaju 78 w rankingu ATP Inigo Cervantes podejmie sklasyfikowanego na 258 miejscu Caioa Zampieriego. W mojej opinii Hiszpan jest zdecydowanym faworytem tego spotkania. W pierwszej rundzie Zampieri długo w trzy setowym pojedynku walczył z zawodnikiem z piątej setki rankingu, natomiast Cervantes bez większych problemów rozprawił się w dwóch setach z zawsze groźnym Belottim. Inigo pokazuje że dobrze czuje się na kontynencie Ameryki Południowej, bowiem po słabszym okresie w turniejach Europejskich i Azjatyckich, właśnie w Ameryce Południowej wrócił do dobrej dyspozycji. Przed tygodniem w Kolumbijskim turnieju szedł jak burza, wyrzucając za burtę kolejnych przeciwników bez straty seta. Dopiero w półfinale Bagnis zagrał znakomite spotkanie i Inigo trochę zagrał poniżej oczekiwań. Dziś spodziewam się pewnego zwycięstwa Cervantesa. Powodzenia!  100"
+		},
+		"Content": "\t\tDyscyplina: Tenis, Challenger - Montevideo\nGodzina: 21:30\nSpotkanie: Zampieri - Cervantes\nTyp: DW 0:2\nKurs: 1,76\nBukmacher: Bet-at-home\nAnaliza: \nAnaliza krótka, bo za parę chwil zaczynają. W drugiej rundzie Challengera w stolicy Urugwaju 78 w rankingu ATP Inigo Cervantes podejmie sklasyfikowanego na 258 miejscu Caioa Zampieriego. W mojej opinii Hiszpan jest zdecydowanym faworytem tego spotkania. W pierwszej rundzie Zampieri długo w trzy setowym pojedynku walczył z zawodnikiem z piątej setki rankingu, natomiast Cervantes bez większych problemów rozprawił się w dwóch setach z zawsze groźnym Belottim. Inigo pokazuje że dobrze czuje się na kontynencie Ameryki Południowej, bowiem po słabszym okresie w turniejach Europejskich i Azjatyckich, właśnie w Ameryce Południowej wrócił do dobrej dyspozycji. Przed tygodniem w Kolumbijskim turnieju szedł jak burza, wyrzucając za burtę kolejnych przeciwników bez straty seta. Dopiero w półfinale Bagnis zagrał znakomite spotkanie i Inigo trochę zagrał poniżej oczekiwań. Dziś spodziewam się pewnego zwycięstwa Cervantesa. Powodzenia!  100\r\n\t\t"
+	}]
+}

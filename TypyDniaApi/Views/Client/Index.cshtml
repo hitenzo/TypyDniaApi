@@ -1,0 +1,35 @@
+﻿@using System.Web.Optimization
+@inherits System.Web.Mvc.WebViewPage
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <script src="~/Scripts/date.js"></script>
+    <script src="~/Scripts/Index/Index.js"></script>
+    <title>romek</title>
+</head>
+<body onload="initializeVal()">
+<div>
+    <h3 id="mainHeader">w taki sposob mozesz wyswietlac reponsa</h3>
+    <input id="dayButton" onclick="getDay()" type="button" value="/../api/TypyDnia/GetDay" style="height: 100px; width: 1000px;">
+    <input id="matchButton" onclick="getMatchDetail()" type="button" value="/../api/WhoScored/GetMatchDetails" style="height: 100px; width: 1000px;">
+    <br>
+    <br>
+    Month : <input type="number" id="monthId" name="month"><br>
+    <br>
+    Day : <input type="number" id="dayId" name="day"><br>
+    <br>
+    Year : <input type="number" id="yearId" name="year"><br>
+    <br>
+    <a id="downloadAnchorElem"></a>
+</div>
+
+    @Scripts.Render("~/bundles/jquery")
+
+</body>
+</html>
