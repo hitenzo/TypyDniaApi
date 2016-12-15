@@ -50,11 +50,40 @@ function getMatchDetail() {
     $('#mainHeader').text("Sending request...  /../api/WhoScored/GetMatchDetails");
 
     var data = {
-        TeamIds: [75],
+        HomeTeamId: 75,
         Date: "30-10-16" //dd:mm:yy
     }
 
     var url = "/../api/WhoScored/GetMatchDetails";
+    $.ajax({
+        type: "POST",
+        url: url,
+        data: data,
+        error: function (xhr, status, error) {
+            var alertMsg = "Error: " + error;
+            $('#mainHeader').text(xhr.responseText);
+        },
+        success: function (response, status, request) {
+            $('#mainHeader').text("Success");
+
+            var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(response);
+            var dlAnchorElem = document.getElementById("downloadAnchorElem");
+            dlAnchorElem.setAttribute("href", dataStr);
+            dlAnchorElem.setAttribute("download", "match_detail.txt");
+            dlAnchorElem.click();
+        }
+    });
+}
+
+function getSeasonMatches() {
+    $('#mainHeader').text("Sending request...  /../api/WhoScored/GetSeasonMatches");
+
+    var data = {
+        Years: "2014/2015",
+        League: "Serie A"
+    }
+
+    var url = "/../api/WhoScored/GetSeasonMatches";
     $.ajax({
         type: "POST",
         url: url,

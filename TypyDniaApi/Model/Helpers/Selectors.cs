@@ -160,5 +160,37 @@ namespace TypyDniaApi.Model.Helpers
         private static string FaulsPerGameHome = "#live-aggression-info > div > div:nth-child(5) > span > span:nth-child(2) > span";
                
         private static string FaulsPerGameAway = "#live-aggression-info > div > div:nth-child(5) > span > span:nth-child(4) > span";
+
+        private static string LeagueList = "#popular-tournaments-list > li > a";
+
+        private static string YearsList = "#seasons";
+
+        private static string MatchReport = "td > a.match-link";
+
+        private static string DatePickerButton = "#date-config-toggle-button";
+
+        private static string FirstYear = "#date-config > div.datepicker-wrapper > div > table > tbody > tr > td:nth-child(1) > div > table > tbody > tr:nth-child(1) > td";
+
+        private static string SecondYear = "#date-config > div.datepicker-wrapper > div > table > tbody > tr > td:nth-child(1) > div > table > tbody > tr:nth-child(2) > td";
+
+        private static string MonthPicker = "#date-config > div.datepicker-wrapper > div > table > tbody > tr > td:nth-child(2) > div > table > tbody";
+
+        private static string ActiveMonths = "#date-config > div.datepicker-wrapper > div > table > tbody > tr > td:nth-child(2) > div > table > tbody > tr > td.selectable";
+
+        private static string ActiveWeeks = "#date-config > div.datepicker-wrapper > div > table > tbody > tr > td:nth-child(3) > div > table > tbody > tr.selectable";
+
+        private static string NextWeekButton = "#date-controller > a.next.button.ui-state-default.rc-r.is-default";
+
+        private static string PreviousWeekButton = "#date-controller > a.previous.button.ui-state-default.rc-l.is-default";
+
+        private static string WeekMatches = "#tournament-fixture > tbody";
+
+        private static string MatchesInDetails = "#tournament-fixture > tbody > tr";
+
+        private static string Browser = "#tournament-nav-popup > div.option-group";
+
+        private static string DetailedTournamentsButton = "#tournament-groups > li:nth-child(3) > a";
+
+        private static string DatePicker = "#date-config > div.datepicker-wrapper";
     }
 }

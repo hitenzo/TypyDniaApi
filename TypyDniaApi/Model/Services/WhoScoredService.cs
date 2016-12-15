@@ -25,7 +25,7 @@ namespace TypyDniaApi.Model.Services
 
         public List<MatchRequest> GetSeasonMatches(SeasonRequest request)
         {
-            throw new NotImplementedException();
+            return _repository.GetSeasonMatches(request);
         }
     }
 }

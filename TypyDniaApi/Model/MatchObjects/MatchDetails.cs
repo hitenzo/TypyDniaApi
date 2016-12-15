@@ -38,7 +38,7 @@ namespace TypyDniaApi.Model.MatchObjects
                 return;
             }
 
-            matchElement.FindElement(By.CssSelector("td > a.match-link")).Click();
+            matchElement.FindElement(By.CssSelector(Selectors.GetSelector("MatchReport"))).Click();
             wait.Until(ExpectedConditions.ElementIsVisible(By.CssSelector(Selectors.GetSelector("Date"))));
 
             WhoScoredScraper.FillObject(this, driver);

@@ -17,11 +17,10 @@ namespace TypyDniaApi.Controllers
 
         private readonly IDayRepository _dayRepository;
 
-        public TypyDniaController()
+        public TypyDniaController(IDayRepository dayRepository, ITableRepository tableRepository) 
         {
-            IContext context = new TypyDniaContext();
-            _dayRepository = new DayRepository(context);
-            _tableRepository = new TableRepository(context);
+            _dayRepository = dayRepository;
+            _tableRepository = tableRepository;
         }
 
         public string GetWinnersArchives()
@@ -50,16 +49,6 @@ namespace TypyDniaApi.Controllers
             var requestedDate = DateTime.Parse(date);
 
             Day day = _dayRepository.GetDay(requestedDate);
-
-            //start test here:
-
-            HtmlWeb web = new HtmlWeb();
-            HtmlDocument document = web.Load("https://www.whoscored.com/Teams/256");
-            HtmlNodeCollection wrapper = document.DocumentNode.SelectNodes("//span[@class='team-header-name']");
-            HtmlNodeCollection wrapper2 = document.DocumentNode.SelectNodes("//span[@id]");
-            int f = 10;
-
-            //end test here
 
             return JsonConvert.SerializeObject(day);
         }

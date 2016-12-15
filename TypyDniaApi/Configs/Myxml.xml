@@ -1,0 +1,10 @@
+<cfg>
+  <threads>4</threads>
+  <url>http://localhost:2710//api//WhoScored//GetMatchDetails</url>
+  <save-path>E://GameData</save-path>
+  <requests>
+    <request home-id="75" date="30-10-16" />
+    <request home-id="77" date="29-10-16" />
+    <request home-id="79" date="28-10-16" />
+  </requests>
+</cfg>

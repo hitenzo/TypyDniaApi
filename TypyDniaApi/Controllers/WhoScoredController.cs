@@ -20,13 +20,9 @@ namespace TypyDniaApi.Controllers
     {
         private readonly IWhoScoredService _whoscoredService;
 
-        public WhoScoredController()
+        public WhoScoredController(IWhoScoredService whoscoredService)
         {
-            //Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-us");
-            //todo: DI container
-            WhoScoredScraper scraper = new WhoScoredScraper();
-            IMatchDetailsRepository matchRepository = new MatchDetailsRepository(scraper);
-            _whoscoredService = new WhoScoredService(matchRepository);
+            _whoscoredService = whoscoredService;
         }
 
         [HttpPost]

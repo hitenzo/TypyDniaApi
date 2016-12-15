@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Web.Script.Serialization;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using TypyDniaApi.Model.MatchObjects;
 
 namespace MatchDownloader.Model
 {
@@ -13,7 +18,16 @@ namespace MatchDownloader.Model
 
         public void Save(string content)
         {
-            Console.WriteLine("zapisalem");
+            var jss = new JavaScriptSerializer();
+            dynamic deserializedData = jss.Deserialize<dynamic>(content);
+
+            dynamic matchDetailsJson = JObject.Parse(deserializedData);
+            string homeTeam = matchDetailsJson["HomeTeam"].ToString();
+            string awayTeam = matchDetailsJson["AwayTeam"].ToString();
+            string matchDate = matchDetailsJson["Date"].ToString();
+
+            string filePath = _cfg.SavePath + "//" + homeTeam + "-" + awayTeam + "-" + matchDate + ".txt";
+            System.IO.File.WriteAllText(filePath, matchDetailsJson.ToString());
         }
     }
 }

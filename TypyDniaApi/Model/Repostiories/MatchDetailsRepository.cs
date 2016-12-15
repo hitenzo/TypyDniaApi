@@ -27,7 +27,9 @@ namespace TypyDniaApi.Model.Repostiories
 
         public List<MatchRequest> GetSeasonMatches(SeasonRequest request)
         {
-            throw new NotImplementedException();
+            List<MatchRequest> seasonMatches= _scraper.GetSeasonMatches(request);
+
+            return seasonMatches;
         }
     }
 }
