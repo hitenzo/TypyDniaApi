@@ -1,28 +1,32 @@
 ﻿using System.Collections.Generic;
 using System.Xml;
+using Shared.Model;
+using Shared.Model.Requests;
 
 namespace ConfigGenerator
 {
     public class Generator
     {
-        private int _threads = 4;
+//        private string _url = "http://localhost:2710//api//WhoScored//GetMatchDetails";
 
-        private string _url = "http://localhost:2710//api//WhoScored//GetMatchDetails";
+//        private string _saveDetailsPath = "E://GameData";
 
-        private string _saveDetailsPath = "E://GameData";
+//        private string _saveConfigPath = "E://projects//TypyDniaApi//TypyDniaApi//Configs//Myxml.xml";
 
-        private string _saveConfigPath = "E://projects//TypyDniaApi//TypyDniaApi//Configs//Myxml.xml";
-
-
-
-        public void GenerateConfig(List<MatchRequest> requestsList)
+        public Config GetConfig(string[] args)
         {
+            string threads = args[0];
+
+            //jeden z arguemtnow będzie mozna przelozyc na 1) season request
+            //2) robisz calla po liste match requestow dla sezonu
+            //3) serializujesz to na liste z jsona
+            List<MatchRequest> requestsList = new List<MatchRequest>();
             XmlDocument myxml = new XmlDocument();
 
             XmlElement cfgTag = myxml.CreateElement("cfg");
 
             XmlElement threadsTag = myxml.CreateElement("threads");
-            threadsTag.InnerText = _threads.ToString();
+            threadsTag.InnerText = threads;
 
             XmlElement urlTag = myxml.CreateElement("url");
             urlTag.InnerText = _url;
@@ -51,6 +55,8 @@ namespace ConfigGenerator
             myxml.AppendChild(cfgTag);
 
             myxml.Save(_saveConfigPath);
+
+            return new Config(myxml);
         }
     }
 }

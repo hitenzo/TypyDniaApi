@@ -61,6 +61,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Shared\Shared.csproj">
+      <Project>{4ed894d1-9f8e-44ef-bc4c-00b0440b4755}</Project>
+      <Name>Shared</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TypyDniaApi\TypyDniaApi.csproj">
       <Project>{DAE0DB99-8CFB-42B0-B402-8324588E1957}</Project>
       <Name>TypyDniaApi</Name>

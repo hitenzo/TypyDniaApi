@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypyDniaApi", "TypyDniaApi\TypyDniaApi.csproj", "{DAE0DB99-8CFB-42B0-B402-8324588E1957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsumer", "ApiConsumer\ApiConsumer.csproj", "{2F73BD83-526C-493D-9C7E-93B6C097481D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypyDniaApi.Tests", "TypyDniaApi.Tests\TypyDniaApi.Tests.csproj", "{5E0F4FA1-68BD-467A-A6F8-72AEFA24941E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{37CDAA12-CA4A-47DA-875C-AF329294D84F}"
@@ -15,10 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchDownloader", "Download
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigGenerator", "ConfigGenerator\ConfigGenerator.csproj", "{FEAD690D-47DA-4092-A411-E5D5324C7C45}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{9D3C0909-6466-43E3-8D3E-57FEBAC4A99F}"
-	ProjectSection(SolutionItems) = preProject
-		Config.cs = Config.cs
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{4ED894D1-9F8E-44EF-BC4C-00B0440B4755}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,10 +25,6 @@ Global
 		{DAE0DB99-8CFB-42B0-B402-8324588E1957}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAE0DB99-8CFB-42B0-B402-8324588E1957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAE0DB99-8CFB-42B0-B402-8324588E1957}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2F73BD83-526C-493D-9C7E-93B6C097481D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2F73BD83-526C-493D-9C7E-93B6C097481D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2F73BD83-526C-493D-9C7E-93B6C097481D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2F73BD83-526C-493D-9C7E-93B6C097481D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5E0F4FA1-68BD-467A-A6F8-72AEFA24941E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5E0F4FA1-68BD-467A-A6F8-72AEFA24941E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E0F4FA1-68BD-467A-A6F8-72AEFA24941E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -46,6 +37,10 @@ Global
 		{FEAD690D-47DA-4092-A411-E5D5324C7C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEAD690D-47DA-4092-A411-E5D5324C7C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEAD690D-47DA-4092-A411-E5D5324C7C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED894D1-9F8E-44EF-BC4C-00B0440B4755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED894D1-9F8E-44EF-BC4C-00B0440B4755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED894D1-9F8E-44EF-BC4C-00B0440B4755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED894D1-9F8E-44EF-BC4C-00B0440B4755}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using System.Xml;
-using TypyDniaApi.Model.Requests;
+using Shared.Model.Requests;
 
-namespace MatchDownloader.Model
+namespace Shared.Model
 {
     public class Config
     {
@@ -18,13 +14,9 @@ namespace MatchDownloader.Model
 
         public List<MatchRequest> RequestedList { get; set; }
 
-        public Config(string cfgPath)
+        public Config(XmlDocument doc)
         {
             RequestedList = new List<MatchRequest>();
-            //parsing cfg
-            XmlDocument doc = new XmlDocument();
-            XmlTextReader reader = new XmlTextReader(cfgPath);
-            doc.Load(reader);
 
             XmlNode apiUrlNode = doc.GetElementsByTagName("url")[0];
             ApiUrl = apiUrlNode.InnerText;

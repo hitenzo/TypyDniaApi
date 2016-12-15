@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Web.Script.Serialization;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using Shared.Model;
 using TypyDniaApi.Model.MatchObjects;
 
 namespace MatchDownloader.Model

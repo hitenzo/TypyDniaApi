@@ -7,11 +7,11 @@ using System.Net.Http;
 using System.Threading;
 using System.Web.Http;
 using Newtonsoft.Json;
+using Shared.Model.Requests;
 using TypyDniaApi.Model.DataSource;
 using TypyDniaApi.Model.MatchObjects;
 using TypyDniaApi.Model.ForumObjects;
 using TypyDniaApi.Model.Repostiories;
-using TypyDniaApi.Model.Requests;
 using TypyDniaApi.Model.Services;
 
 namespace TypyDniaApi.Controllers

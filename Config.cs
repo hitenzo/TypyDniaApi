@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml;
 using TypyDniaApi.Model.Requests;
 
-namespace MatchDownloader.Model
+namespace Model
 {
     public class Config
     {

@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Shared.Model.Requests;
 using TypyDniaApi.Model.MatchObjects;
-using TypyDniaApi.Model.Requests;
 
 namespace TypyDniaApi.Model.Services
 {

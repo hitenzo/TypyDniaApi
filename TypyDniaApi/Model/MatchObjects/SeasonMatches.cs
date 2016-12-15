@@ -7,9 +7,9 @@ using System.Web;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.Extensions;
 using OpenQA.Selenium.Support.UI;
+using Shared.Model.Requests;
 using TypyDniaApi.Model.DataSource;
 using TypyDniaApi.Model.Helpers;
-using TypyDniaApi.Model.Requests;
 
 namespace TypyDniaApi.Model.MatchObjects
 {

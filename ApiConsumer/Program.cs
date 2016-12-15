@@ -10,8 +10,8 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using Shared.Model.Requests;
 using TypyDniaApi.Model.MatchObjects;
-using TypyDniaApi.Model.Requests;
 
 namespace ApiConsumer
 {

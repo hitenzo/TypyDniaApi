@@ -197,10 +197,8 @@
     <Compile Include="Model\Repostiories\ITableRepository.cs" />
     <Compile Include="Model\Repostiories\MatchDetailsRepository.cs" />
     <Compile Include="Model\Repostiories\TableRepository.cs" />
-    <Compile Include="Model\Requests\SeasonRequest.cs" />
     <Compile Include="Model\Services\IWhoScoredService.cs" />
     <Compile Include="Model\Services\WhoScoredService.cs" />
-    <Compile Include="Model\Requests\MatchRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -231,6 +229,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Client\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Shared\Shared.csproj">
+      <Project>{4ed894d1-9f8e-44ef-bc4c-00b0440b4755}</Project>
+      <Name>Shared</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -5,7 +5,7 @@ using System.Web;
 using TypyDniaApi.Model.DataSource;
 using TypyDniaApi.Model.MatchObjects;
 using TypyDniaApi.Model.ForumObjects;
-using TypyDniaApi.Model.Requests;
+using Shared.Model.Requests;
 
 namespace TypyDniaApi.Model.Repostiories
 {

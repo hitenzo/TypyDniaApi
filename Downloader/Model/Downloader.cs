@@ -5,7 +5,8 @@ using System.Net;
 using System.Threading;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
-using TypyDniaApi.Model.Requests;
+using Shared.Model;
+using Shared.Model.Requests;
 
 namespace MatchDownloader.Model
 {
@@ -33,7 +34,7 @@ namespace MatchDownloader.Model
             return tasksList;
         }
 
-        public string PostApiCall(string url, MatchRequest matchRequest)
+        private string PostApiCall(string url, MatchRequest matchRequest)
         {
             string responseString = string.Empty;
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);

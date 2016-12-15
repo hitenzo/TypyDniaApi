@@ -2,8 +2,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using NUnit.Framework;
+using Shared.Model.Requests;
 using TypyDniaApi.Controllers;
-using TypyDniaApi.Model.Requests;
 using TypyDniaApi.Model.Services;
 using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
 
