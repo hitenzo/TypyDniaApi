@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Reflection;
 using OpenQA.Selenium;
@@ -17,7 +18,8 @@ namespace TypyDniaApi.Model.DataSource
     {
         public MatchDetails GetMatchDetails(string matchDate, int teamId)
         {
-            IWebDriver driver = new PhantomJSDriver(@"C:\Program Files\phantomjs-2.1.1-windows\phantomjs-2.1.1-windows\bin");
+            //IWebDriver driver = new PhantomJSDriver(resourcesPath);
+            IWebDriver driver = new PhantomJSDriver("C:\\Program Files\\phantomjs-2.1.1-windows\\phantomjs-2.1.1-windows\\bin");
 
             MatchDetails scrapedDetails = new MatchDetails(matchDate, teamId, driver);
 
@@ -28,8 +30,8 @@ namespace TypyDniaApi.Model.DataSource
 
         public List<MatchRequest> GetSeasonMatches(SeasonRequest request)
         {
-            //IWebDriver driver = new PhantomJSDriver(@"C:\Program Files\phantomjs-2.1.1-windows\phantomjs-2.1.1-windows\bin");
-            IWebDriver driver = new ChromeDriver(@"C:\Users\kuite\Desktop\");
+            //IWebDriver driver = new ChromeDriver(resourcesPath);
+            IWebDriver driver = new ChromeDriver("C:\\Users\\kuite\\Desktop");
 
             SeasonMatches seasonMatches = new SeasonMatches(request, driver);
 

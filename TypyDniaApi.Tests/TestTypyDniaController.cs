@@ -14,44 +14,20 @@ namespace TypyDniaApi.Tests
     {
         //w stupie wszystkie wspodzielone zasoby inicjujesz,kk zrobie 
 
-        private Mock<IDayRepository> mockDayRepository;
-        private Mock<ITableRepository> mockTableRepository;
         private TypyDniaController controller;
-        private string expectedGetDay;
-        private string expectedGetDayPath;
-        private dynamic expectedJson;
-        private int singlePostIndex;
-
-        private string expectedWinnersArchive;
-        private string expectedArchivesPath;
 
         [SetUp]
         public void Setup()
         {
-            mockDayRepository = new Mock<IDayRepository>();
-            mockTableRepository = new Mock<ITableRepository>();
+            var mockDayRepository = new Mock<IDayRepository>();
+            var mockTableRepository = new Mock<ITableRepository>();
             controller = new TypyDniaController(mockDayRepository.Object, mockTableRepository.Object);
-            
-            expectedGetDayPath = string.Empty;
-            expectedGetDay = File.ReadAllText(expectedGetDayPath);
-
-            expectedJson = JObject.Parse(expectedGetDay);
-            singlePostIndex = 1;
-
-            expectedWinnersArchive = File.ReadAllText(expectedArchivesPath);
         }
 
         [TearDown]
         public void TearDown()
         {
-            mockDayRepository = null;
-            mockTableRepository = null;
             controller = null;
-            expectedGetDay = string.Empty;
-            expectedGetDayPath = string.Empty;
-            expectedJson = null;
-            expectedWinnersArchive = string.Empty;
-            expectedArchivesPath = string.Empty;
         }
 
 
@@ -66,8 +42,9 @@ namespace TypyDniaApi.Tests
         [TestCase("11/7/2016")]
         public void TestGetday(string strData)
         {
-            //expectedGetDay = File.ReadAllText(expectedGetDayPath);
-            //dynamic expectedJson = JObject.Parse(expectedGetDay);
+            string expectedGetDayPath = "";
+            string expectedGetDay = File.ReadAllText(expectedGetDayPath);
+            dynamic expectedJson = JObject.Parse(expectedGetDay);
             var expectedPosts = (JArray)expectedJson["Posts"];
 
             var actual = controller.GetDay(strData);
@@ -86,9 +63,12 @@ namespace TypyDniaApi.Tests
             //ja nie wiem jak będzie tabela wyglądać, https://www.forum.bukmacherskie.com/f43/archiwum-zwyciezcow-typow-dnia-122961.html
             //ok wlasnie ja zrobilem
 
-            dynamic expectedArchiveJson = JObject.Parse(expectedWinnersArchive);
+            string expectedArchivePath = "";
+            string expectedWinnersArchive = File.ReadAllText(expectedArchivePath);
 
-            string actualArchiveJson = controller.GetWinnersArchives();
+            string actualWinnersArchive = controller.GetWinnersArchives();
+
+            Assert.AreEqual(expectedWinnersArchive, actualWinnersArchive);
         }
     }
 }

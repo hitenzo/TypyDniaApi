@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Web.Script.Serialization;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
@@ -8,11 +9,11 @@ using TypyDniaApi.Model.MatchObjects;
 
 namespace MatchDownloader.Model
 {
-    public class Writer : IWriter
+    public class MatchSaver : ISaver
     {
         private Config _cfg;
 
-        public Writer(Config cfg)
+        public MatchSaver(Config cfg)
         {
             _cfg = cfg;
         }
@@ -27,8 +28,14 @@ namespace MatchDownloader.Model
             string awayTeam = matchDetailsJson["AwayTeam"].ToString();
             string matchDate = matchDetailsJson["Date"].ToString();
 
-            string filePath = _cfg.SavePath + "//" + homeTeam + "-" + awayTeam + "-" + matchDate + ".txt";
-            System.IO.File.WriteAllText(filePath, matchDetailsJson.ToString());
+            string filePath = _cfg.MatchesSavePath + "//" + homeTeam + "-" + awayTeam + "-" + matchDate + ".txt";
+
+            if (!Directory.Exists(_cfg.MatchesSavePath))
+            {
+                Directory.CreateDirectory(_cfg.MatchesSavePath);
+            }
+
+            File.WriteAllText(filePath, matchDetailsJson.ToString());
         }
     }
 }

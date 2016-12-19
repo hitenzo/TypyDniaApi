@@ -1,38 +1,56 @@
 ﻿using System.Collections.Generic;
 using System.Xml;
+using Newtonsoft.Json;
 using Shared.Model;
 using Shared.Model.Requests;
+using TypyDniaApi.Controllers;
+using TypyDniaApi.Model.DataSource;
+using TypyDniaApi.Model.Repostiories;
+using TypyDniaApi.Model.Services;
 
 namespace ConfigGenerator
 {
     public class Generator
     {
-//        private string _url = "http://localhost:2710//api//WhoScored//GetMatchDetails";
+        private readonly WhoScoredController _whoScoredController;
 
-//        private string _saveDetailsPath = "E://GameData";
-
-//        private string _saveConfigPath = "E://projects//TypyDniaApi//TypyDniaApi//Configs//Myxml.xml";
+        public Generator()
+        {
+            var scraper = new WhoScoredScraper();
+            var whoScoredRepository = new MatchDetailsRepository(scraper);
+            var whoScoredService = new WhoScoredService(whoScoredRepository);
+            _whoScoredController = new WhoScoredController(whoScoredService);
+        }
 
         public Config GetConfig(string[] args)
         {
+            var seasonRequest = new SeasonRequest();
+
             string threads = args[0];
+            string url = args[1];
+            string league = args[2];
+            string years = args[3];
+            string saveDetailsPath = args[4];
 
-            //jeden z arguemtnow będzie mozna przelozyc na 1) season request
-            //2) robisz calla po liste match requestow dla sezonu
-            //3) serializujesz to na liste z jsona
-            List<MatchRequest> requestsList = new List<MatchRequest>();
+            seasonRequest.League = league;
+            seasonRequest.Years = years;
+
+            saveDetailsPath = string.Concat(saveDetailsPath, "\\", league, "-", years);
+
+            string allMatchesRequest = _whoScoredController.GetSeasonMatches(seasonRequest);
+
+            List<MatchRequest> requestsList = JsonConvert.DeserializeObject<List<MatchRequest>>(allMatchesRequest);
+
             XmlDocument myxml = new XmlDocument();
-
             XmlElement cfgTag = myxml.CreateElement("cfg");
-
             XmlElement threadsTag = myxml.CreateElement("threads");
             threadsTag.InnerText = threads;
 
             XmlElement urlTag = myxml.CreateElement("url");
-            urlTag.InnerText = _url;
+            urlTag.InnerText = url;
 
             XmlElement saveDetailsTag = myxml.CreateElement("save-path");
-            saveDetailsTag.InnerText = _saveDetailsPath;
+            saveDetailsTag.InnerText = saveDetailsPath;
 
             XmlElement requestsTag = myxml.CreateElement("requests");
 
@@ -45,16 +63,10 @@ namespace ConfigGenerator
             }
 
             cfgTag.AppendChild(threadsTag);
-
             cfgTag.AppendChild(urlTag);
-
             cfgTag.AppendChild(saveDetailsTag);
-
             cfgTag.AppendChild(requestsTag);
-
             myxml.AppendChild(cfgTag);
-
-            myxml.Save(_saveConfigPath);
 
             return new Config(myxml);
         }

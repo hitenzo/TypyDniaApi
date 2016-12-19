@@ -12,12 +12,12 @@ namespace MatchDownloader.Model
     {
         private Config _cfg;
         private Downloader _downloader;
-        private Writer _writer;
+        private MatchSaver _matchSaver;
 
-        public Manager(Downloader downloader, Writer writer, Config cfg)
+        public Manager(Downloader downloader, MatchSaver matchSaver, Config cfg)
         {
             _downloader = downloader;
-            _writer = writer;
+            _matchSaver = matchSaver;
             _cfg = cfg;
         }
 
@@ -42,8 +42,9 @@ namespace MatchDownloader.Model
             Task.WaitAll(taskList.ToArray());
             foreach (string result in results)
             {
-                _writer.Save(result);
+                _matchSaver.Save(result);
             }
+
             return "Pobrano 0/0";
         }
     }

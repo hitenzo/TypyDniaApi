@@ -83,18 +83,22 @@ namespace TypyDniaApi.Model.MatchObjects
 
             while (true)
             {
-                Thread.Sleep(500);
                 IEnumerable<IWebElement> matchesInDetails = wait.Until(x => x.FindElements(By.CssSelector(Selectors.GetSelector("MatchesInDetails"))));
 
                 foreach (var singleMatch in matchesInDetails)
                 {
-                    if (singleMatch.GetAttribute("class").Contains("rowgroup")) // if (singleMatch.GetAttribute("class").Contains("rowgroup"))
+                    if (singleMatch.GetAttribute("class").Contains("rowgroup"))
                     {
                         IWebElement dateHolder = wait.Until(x => singleMatch.FindElement(By.CssSelector("th")));
                         matchDate = dateHolder.Text;
                     }
                     else
                     {
+                        if (singleMatch.Text.Contains("Preview"))
+                        {
+                            break;
+                        }
+
                         var homeTeamIdString = singleMatch.FindElement(By.CssSelector("td.home"))
                             .GetAttribute("data-id");
                         var homeTeamId = int.Parse(homeTeamIdString);
@@ -120,7 +124,30 @@ namespace TypyDniaApi.Model.MatchObjects
                     //err.SaveAsFile(@"C:\Users\kuite\Desktop\error.jpg", ImageFormat.Jpeg);
                 }
 
+                string firstMatchHtml = matchesInDetails.FirstOrDefault().GetAttribute("innerHTML");
                 driver.FindElement(By.CssSelector(Selectors.GetSelector("NextWeekButton"))).Click();
+                
+                bool isNotChanged = true;
+
+                while (isNotChanged)
+                {
+                    try
+                    {
+                        IWebElement newFirstMatch = wait.Until(x => x.FindElements(By.CssSelector(Selectors.GetSelector("MatchesInDetails")))
+                        .FirstOrDefault());
+
+                        string newFirstMatchHtml = wait.Until(x => newFirstMatch.GetAttribute("innerHTML"));
+                        if (firstMatchHtml != newFirstMatchHtml)
+                        {
+                            isNotChanged = false;
+                        }
+                    }
+                    catch (StaleElementReferenceException ex)
+                    {
+                        //do nothing
+                    }
+                }
+                
             }
         }
     }

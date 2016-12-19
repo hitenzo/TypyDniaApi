@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConfigGenerator
+namespace MatchDownloader.Model
 {
-    public class Class1
+    public interface ISaver
     {
-
+        void Save(string content);
     }
 }

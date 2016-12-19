@@ -20,17 +20,27 @@ namespace MatchDownloader
 //            doc.Load(reader);
 //            var cfg = new Config(doc);
 
+
+//            string threads = args[0];
+//            string url = args[1];
+//            string league = args[2];
+//            string years = args[3];
+//            string saveDetailsPath = args[4];
+
             args = new[]
             {
-                "pierwszy parametr zahardkodowany przez wojtka hakera",
-                "drugi parametr"
+                "3",
+                "http://localhost:2710//api//WhoScored//GetMatchDetails",
+                "Eredivisie",
+                "2015/2016",
+                "E:\\Data"
             };
 
             var cfgGen = new Generator();
             var cfg = cfgGen.GetConfig(args);
 
             var downloader = new Downloader(cfg);
-            var writer = new Writer(cfg);
+            var writer = new MatchSaver(cfg);
             var manager = new Manager(downloader, writer, cfg);
 
             string result = manager.Perform();

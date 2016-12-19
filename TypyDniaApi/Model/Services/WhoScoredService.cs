@@ -11,7 +11,7 @@ namespace TypyDniaApi.Model.Services
 {
     public class WhoScoredService : IWhoScoredService
     {
-        private IMatchDetailsRepository _repository;
+        private readonly IMatchDetailsRepository _repository;
 
         public WhoScoredService(IMatchDetailsRepository repository)
         {

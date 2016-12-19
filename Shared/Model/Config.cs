@@ -10,19 +10,22 @@ namespace Shared.Model
 
         public int Threads { get; set; }
 
-        public string SavePath { get; set; }
+        public string MatchesSavePath { get; set; }
 
         public List<MatchRequest> RequestedList { get; set; }
 
+        private readonly XmlDocument _configXml;
+
         public Config(XmlDocument doc)
         {
+            _configXml = doc;
             RequestedList = new List<MatchRequest>();
 
             XmlNode apiUrlNode = doc.GetElementsByTagName("url")[0];
             ApiUrl = apiUrlNode.InnerText;
 
             XmlNode savePathNode = doc.GetElementsByTagName("save-path")[0];
-            SavePath = savePathNode.InnerText;
+            MatchesSavePath = savePathNode.InnerText;
 
             XmlNodeList tasksNumber = doc.GetElementsByTagName("threads");
             int number;
@@ -62,6 +65,11 @@ namespace Shared.Model
                     RequestedList.Add(dataRequest);
                 }
             }
+        }
+
+        public void SaveToFile(string savePath)
+        {
+            _configXml.Save(savePath);
         }
     }
 }
