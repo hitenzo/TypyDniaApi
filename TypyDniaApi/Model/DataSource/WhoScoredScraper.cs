@@ -8,6 +8,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.PhantomJS;
 using OpenQA.Selenium.Support.UI;
+using Shared;
 using Shared.Model.Requests;
 using TypyDniaApi.Model.MatchObjects;
 using TypyDniaApi.Model.Helpers;
@@ -18,8 +19,8 @@ namespace TypyDniaApi.Model.DataSource
     {
         public MatchDetails GetMatchDetails(string matchDate, int teamId)
         {
-            //IWebDriver driver = new PhantomJSDriver(resourcesPath);
-            IWebDriver driver = new PhantomJSDriver("C:\\Program Files\\phantomjs-2.1.1-windows\\phantomjs-2.1.1-windows\\bin");
+            //IWebDriver driver = new PhantomJSDriver(Path.Combine(EmbeddedData.GetAssemblyDirectory(), "App_Data"));
+            IWebDriver driver = new ChromeDriver(Path.Combine(EmbeddedData.GetAssemblyDirectory(), "App_Data"));
 
             MatchDetails scrapedDetails = new MatchDetails(matchDate, teamId, driver);
 
@@ -30,8 +31,8 @@ namespace TypyDniaApi.Model.DataSource
 
         public List<MatchRequest> GetSeasonMatches(SeasonRequest request)
         {
-            //IWebDriver driver = new ChromeDriver(resourcesPath);
-            IWebDriver driver = new ChromeDriver("C:\\Users\\kuite\\Desktop");
+            IWebDriver driver = new ChromeDriver(Path.Combine(EmbeddedData.GetAssemblyDirectory(), "App_Data"));
+            //IWebDriver driver = new PhantomJSDriver(Path.Combine(EmbeddedData.GetAssemblyDirectory(), "App_Data"));
 
             SeasonMatches seasonMatches = new SeasonMatches(request, driver);
 

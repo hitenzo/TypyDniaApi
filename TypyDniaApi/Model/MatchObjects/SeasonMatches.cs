@@ -81,10 +81,13 @@ namespace TypyDniaApi.Model.MatchObjects
             var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(7));
             string matchDate = string.Empty;
 
+            Thread.Sleep(1000);
             while (true)
             {
-                IEnumerable<IWebElement> matchesInDetails = wait.Until(x => x.FindElements(By.CssSelector(Selectors.GetSelector("MatchesInDetails"))));
+                IEnumerable<IWebElement> matchesInDetails = wait.Until(
+                    ExpectedConditions.VisibilityOfAllElementsLocatedBy(By.CssSelector(Selectors.GetSelector("MatchesInDetails"))));
 
+                string firstMatchHtml = matchesInDetails.FirstOrDefault().GetAttribute("innerHTML");
                 foreach (var singleMatch in matchesInDetails)
                 {
                     if (singleMatch.GetAttribute("class").Contains("rowgroup"))
@@ -123,10 +126,9 @@ namespace TypyDniaApi.Model.MatchObjects
                     //var err = driver.TakeScreenshot();
                     //err.SaveAsFile(@"C:\Users\kuite\Desktop\error.jpg", ImageFormat.Jpeg);
                 }
-
-                string firstMatchHtml = matchesInDetails.FirstOrDefault().GetAttribute("innerHTML");
-                driver.FindElement(By.CssSelector(Selectors.GetSelector("NextWeekButton"))).Click();
                 
+                driver.FindElement(By.CssSelector(Selectors.GetSelector("NextWeekButton"))).Click();
+                //wait for element to change instanead of isNotChange while loop
                 bool isNotChanged = true;
 
                 while (isNotChanged)

@@ -42,16 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EmeddedData.cs" />
     <Compile Include="Model\Config.cs" />
     <Compile Include="Model\Requests\MatchRequest.cs" />
     <Compile Include="Model\Requests\SeasonRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="Appconfig.xml" />
-    <Content Include="Resources\chromedriver.exe" />
-    <Content Include="Resources\phantomjs.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
