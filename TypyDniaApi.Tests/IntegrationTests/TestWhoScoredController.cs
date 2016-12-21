@@ -30,7 +30,7 @@ namespace TypyDniaApi.Tests.IntegrationTests
 
         }
 
-        [Test]
+        [TestMethod]
         public void TestGetMatchDetails()
         {
             string expectedMatchDetails = File.ReadAllText(expectedDetailsPath);
@@ -44,7 +44,7 @@ namespace TypyDniaApi.Tests.IntegrationTests
             Assert.AreEqual(expectedMatchDetails, actualMatchDetails);
         }
 
-        [Test]
+        [TestMethod]
         public void TestGetSeasonMatches()
         {
             string expectedSeasonRequests = File.ReadAllText(expectedSeasonPath);

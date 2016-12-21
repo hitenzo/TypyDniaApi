@@ -30,7 +30,7 @@ namespace TypyDniaApi.Model.DataSource.Contexts
             string requestedDate = date.ToString("dd.MM.yyyy").First() == '0' ? date.ToString("dd.MM.yyyy").Substring(1) : date.ToString("dd.MM.yyyy");
             for (int i = 0; i < _pageCount; i++)
             {
-                HtmlNode node = GetTypyDniaPageNode(i).ChildNodes.FirstOrDefault(n => n.InnerText.Contains(requestedDate));
+                HtmlNode node = GetTypyDniaPageNode(i).ChildNodes.FirstOrDefault(n => n.InnerText.Contains(" " + requestedDate));
                 if (node != null)
                 {
                     HtmlNode hrefContainer = node.Descendants().First(n => n.Name.Equals("a"));

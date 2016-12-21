@@ -13,7 +13,7 @@ using Assert = NUnit.Framework.Assert;
 
 namespace TypyDniaApi.Tests.IntegrationTests
 {
-    [TestFixture]
+    [TestClass]
     public class TestTypyDniaController
     {
         private TypyDniaController _controller;
@@ -32,14 +32,14 @@ namespace TypyDniaApi.Tests.IntegrationTests
         }
 
 
-        [Test]
+        [TestMethod]
         public void TestGetTable()
         {
             //porownoj sobie dane jakie otrzymasz z jakimis randomowymi jakie sam wymyslisz albo poprawnymi,
             //powinny byc poprawne i zahardkodowane np. w jakims pliku jsonowym/xmlowym.
         }
 
-        [Test]
+        [TestMethod]
         public void TestGetday()
         {
             string data = "11/7/2016";
@@ -56,7 +56,7 @@ namespace TypyDniaApi.Tests.IntegrationTests
             Assert.AreEqual(expectedPosts, actualPosts);
         }
 
-        [Test]
+        [TestMethod]
         public void TestGetWinnersArchives()
         {
             //to że metoda w kontrolerze nie jest napisana to nie oznacza 
