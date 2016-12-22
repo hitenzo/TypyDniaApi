@@ -9,7 +9,7 @@ using TypyDniaApi.Controllers;
 using TypyDniaApi.Model.DataSource.Contexts;
 using TypyDniaApi.Model.Repostiories;
 using Assert = NUnit.Framework.Assert;
-
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TypyDniaApi.Tests.IntegrationTests
 {
@@ -65,12 +65,15 @@ namespace TypyDniaApi.Tests.IntegrationTests
             //ja nie wiem jak będzie tabela wyglądać, https://www.forum.bukmacherskie.com/f43/archiwum-zwyciezcow-typow-dnia-122961.html
             //ok wlasnie ja zrobilem
 
-            string expectedArchivePath = "";
-            string expectedWinnersArchive = File.ReadAllText(expectedArchivePath);
+            //string expectedArchivePath = Path.Combine(LocalPaths.TestData, "TypyDniaData", "archive.txt");
+            //string expectedArchive = File.ReadAllText(expectedArchivePath);
+            string expectedArchive = EmbeddedData.AsString("archive.txt");
+            dynamic expectedJson = JObject.Parse(expectedArchive);
 
-            string actualWinnersArchive = _controller.GetWinnersArchives();
+            string actualArchive = _controller.GetWinnersArchives();
+            dynamic actualJson = JObject.Parse(actualArchive);
 
-            Assert.AreEqual(expectedWinnersArchive, actualWinnersArchive);
+            Assert.AreEqual(expectedJson, actualJson);
         }
     }
 }

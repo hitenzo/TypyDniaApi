@@ -6,6 +6,7 @@ using Shared.Model.Requests;
 using TypyDniaApi.Controllers;
 using TypyDniaApi.Model.Services;
 using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
+using Shared;
 
 namespace TypyDniaApi.Tests.IntegrationTests
 {
@@ -33,7 +34,8 @@ namespace TypyDniaApi.Tests.IntegrationTests
         [TestMethod]
         public void TestGetMatchDetails()
         {
-            string expectedMatchDetails = File.ReadAllText(expectedDetailsPath);
+            //string expectedMatchDetails = File.ReadAllText(expectedDetailsPath);
+            string expectedMatchDetails = EmbeddedData.AsString("matchDetails.txt");
 
             var testMatchRequest = new MatchRequest();
             testMatchRequest.HomeTeamId = 75;
@@ -47,7 +49,8 @@ namespace TypyDniaApi.Tests.IntegrationTests
         [TestMethod]
         public void TestGetSeasonMatches()
         {
-            string expectedSeasonRequests = File.ReadAllText(expectedSeasonPath);
+            //string expectedSeasonRequests = File.ReadAllText(expectedSeasonPath);
+            string expectedSeasonRequests = EmbeddedData.AsString("seasonMatches.txt");
 
             var testSeasonRequest = new SeasonRequest();
             testSeasonRequest.League = "Serie A";
