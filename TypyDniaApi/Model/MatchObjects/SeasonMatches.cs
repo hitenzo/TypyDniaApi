@@ -81,7 +81,7 @@ namespace TypyDniaApi.Model.MatchObjects
             var wait = new WebDriverWait(driver, TimeSpan.FromSeconds(7));
             string matchDate = string.Empty;
 
-            Thread.Sleep(1000);
+            //Thread.Sleep(1000);
             while (true)
             {
                 IEnumerable<IWebElement> matchesInDetails = wait.Until(
@@ -129,9 +129,9 @@ namespace TypyDniaApi.Model.MatchObjects
                 
                 driver.FindElement(By.CssSelector(Selectors.GetSelector("NextWeekButton"))).Click();
                 //wait for element to change instanead of isNotChange while loop
-                bool isNotChanged = true;
+                bool isChanged = true;
 
-                while (isNotChanged)
+                while (isChanged)
                 {
                     try
                     {
@@ -141,7 +141,7 @@ namespace TypyDniaApi.Model.MatchObjects
                         string newFirstMatchHtml = wait.Until(x => newFirstMatch.GetAttribute("innerHTML"));
                         if (firstMatchHtml != newFirstMatchHtml)
                         {
-                            isNotChanged = false;
+                            isChanged = false;
                         }
                     }
                     catch (StaleElementReferenceException ex)

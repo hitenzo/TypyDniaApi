@@ -16,8 +16,4 @@ Chodzi o predykcje, of klasteryzacjê (jest kupa algorytmów) , potem decision tre
 
 -----TODO----
 
-- popraw¹ tê pentlê w SeasonMatches.cs
-- popraw TypyDniaContext (b³¹d ze sprawdzaniem daty, tam jest contains a nie powinno byc)
-- konczysz testy (tak jak GetDay on jest dobrze napisany) (testy maja byc tak napisane, ze po refactoringu jak je odpalisz i przejda to masz 100% pewnosci ze nic nie popsules)
-- dodaj do configa do œcie¿ki zapisu folder z nazw¹ sezonu i tam przechowujemy mecze danego sezonu
-- podzielic te testy i dodac unit testy dla poszczegolnych modulow
+- napisz testy WhoScoredController

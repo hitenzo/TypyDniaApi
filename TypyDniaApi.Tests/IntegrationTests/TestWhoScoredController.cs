@@ -7,6 +7,9 @@ using TypyDniaApi.Controllers;
 using TypyDniaApi.Model.Services;
 using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
 using Shared;
+using TypyDniaApi.Model.DataSource;
+using TypyDniaApi.Model.Repostiories;
+using EmbeddedData = TypyDniaApi.Tests.TestData.EmbeddedData;
 
 namespace TypyDniaApi.Tests.IntegrationTests
 {
@@ -14,15 +17,11 @@ namespace TypyDniaApi.Tests.IntegrationTests
     public class TestWhoScoredController
     {
         private WhoScoredController _controller;
-        private Mock<IWhoScoredService> _mockService;
-        private string expectedDetailsPath = "chujwamwdupala";
-        private string expectedSeasonPath = "gterter";
 
         [SetUp]
         public void Setup()
         {
-            _mockService = new Mock<IWhoScoredService>();
-            _controller = new WhoScoredController(_mockService.Object);
+            _controller = new WhoScoredController(new WhoScoredService(new MatchDetailsRepository(new WhoScoredScraper())));
         }
 
         [TearDown]
@@ -34,7 +33,6 @@ namespace TypyDniaApi.Tests.IntegrationTests
         [TestMethod]
         public void TestGetMatchDetails()
         {
-            //string expectedMatchDetails = File.ReadAllText(expectedDetailsPath);
             string expectedMatchDetails = EmbeddedData.AsString("matchDetails.txt");
 
             var testMatchRequest = new MatchRequest();
@@ -49,8 +47,7 @@ namespace TypyDniaApi.Tests.IntegrationTests
         [TestMethod]
         public void TestGetSeasonMatches()
         {
-            //string expectedSeasonRequests = File.ReadAllText(expectedSeasonPath);
-            string expectedSeasonRequests = EmbeddedData.AsString("seasonMatches.txt");
+            string expectedSeasonRequests = EmbeddedData.AsString("seasonMatches-seriea-2014-2015.txt");
 
             var testSeasonRequest = new SeasonRequest();
             testSeasonRequest.League = "Serie A";

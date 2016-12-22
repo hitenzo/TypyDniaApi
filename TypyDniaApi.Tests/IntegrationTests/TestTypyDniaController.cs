@@ -3,13 +3,12 @@ using System.IO;
 using System.Threading;
 using Newtonsoft.Json.Linq;
 using NUnit.Framework;
-using Shared;
-using Shared.Model;
 using TypyDniaApi.Controllers;
 using TypyDniaApi.Model.DataSource.Contexts;
 using TypyDniaApi.Model.Repostiories;
 using Assert = NUnit.Framework.Assert;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using TypyDniaApi.Tests.TestData;
 
 namespace TypyDniaApi.Tests.IntegrationTests
 {
@@ -32,19 +31,17 @@ namespace TypyDniaApi.Tests.IntegrationTests
         }
 
 
-        [TestMethod]
+        [Test]
         public void TestGetTable()
         {
             //porownoj sobie dane jakie otrzymasz z jakimis randomowymi jakie sam wymyslisz albo poprawnymi,
             //powinny byc poprawne i zahardkodowane np. w jakims pliku jsonowym/xmlowym.
         }
 
-        [TestMethod]
+        [Test]
         public void TestGetday()
         {
             string data = "11/7/2016";
-            //string expectedGetDayPath = Path.Combine(LocalPaths.TestData, "TypyDniaData", "response.txt");
-            //string expectedGetDay = File.ReadAllText(expectedGetDayPath);
             string expectedGetDay = EmbeddedData.AsString("response.txt");
             dynamic expectedJson = JObject.Parse(expectedGetDay);
             var expectedPosts = (JArray)expectedJson["Posts"];
@@ -56,17 +53,9 @@ namespace TypyDniaApi.Tests.IntegrationTests
             Assert.AreEqual(expectedPosts, actualPosts);
         }
 
-        [TestMethod]
+        [Test]
         public void TestGetWinnersArchives()
         {
-            //to że metoda w kontrolerze nie jest napisana to nie oznacza 
-            //że ty nie możesz napisać testów, po prostu będą failowane
-
-            //ja nie wiem jak będzie tabela wyglądać, https://www.forum.bukmacherskie.com/f43/archiwum-zwyciezcow-typow-dnia-122961.html
-            //ok wlasnie ja zrobilem
-
-            //string expectedArchivePath = Path.Combine(LocalPaths.TestData, "TypyDniaData", "archive.txt");
-            //string expectedArchive = File.ReadAllText(expectedArchivePath);
             string expectedArchive = EmbeddedData.AsString("archive.txt");
             dynamic expectedJson = JObject.Parse(expectedArchive);
 

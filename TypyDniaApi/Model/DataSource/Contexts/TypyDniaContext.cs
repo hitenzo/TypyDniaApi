@@ -31,10 +31,6 @@ namespace TypyDniaApi.Model.DataSource.Contexts
             for (int i = 0; i < _pageCount; i++)
             {
                 HtmlNode node = GetTypyDniaPageNode(i).ChildNodes.FirstOrDefault(n => n.InnerText.Contains(" " + requestedDate));
-                if(node == null)
-                {
-                    node = GetTypyDniaPageNode(i).ChildNodes.FirstOrDefault(n => n.InnerText.Contains("0" + requestedDate));
-                }
 
                 if (node != null)
                 {

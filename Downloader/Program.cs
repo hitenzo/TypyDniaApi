@@ -31,13 +31,13 @@ namespace MatchDownloader
             {
                 "3",
                 "http://localhost:2710//api//WhoScored//GetMatchDetails",
-                "Eredivisie",
-                "2015/2016",
+                "Serie-A",
+                "2014/2015",
                 "E:\\Data"
             };
 
             var cfgGen = new Generator();
-            var cfg = cfgGen.GetConfig(args);
+            Config cfg = cfgGen.GetConfig(args);
 
             var downloader = new Downloader(cfg);
             var writer = new MatchSaver(cfg);
