@@ -62,7 +62,7 @@ namespace TypyDniaApi.Tests.IntegrationTests
             string actualArchive = _controller.GetWinnersArchives();
             dynamic actualJson = JObject.Parse(actualArchive);
 
-            Assert.AreEqual(expectedJson, actualJson);
+            Assert.AreEqual(expectedJson.Data, actualJson.Data);
         }
     }
 }

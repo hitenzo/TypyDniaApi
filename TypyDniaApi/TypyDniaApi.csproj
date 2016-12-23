@@ -206,7 +206,7 @@
     <None Include="App_Data\chromedriver.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <Content Include="Configs\Myxml.xml" />
+    <Content Include="App_Data\Myxml.xml" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />

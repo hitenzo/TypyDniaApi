@@ -1,0 +1,1520 @@
+[{
+	"HomeTeamId": 84,
+	"Date": "Saturday, Aug 20 2016"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Saturday, Aug 20 2016"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Aug 21 2016"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Aug 21 2016"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Aug 21 2016"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Aug 21 2016"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Aug 21 2016"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Aug 21 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Aug 21 2016"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Aug 21 2016"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Saturday, Aug 27 2016"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Saturday, Aug 27 2016"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Aug 28 2016"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Aug 28 2016"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Aug 28 2016"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Aug 28 2016"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Aug 28 2016"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Aug 28 2016"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Aug 28 2016"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Aug 28 2016"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Saturday, Sep 10 2016"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Saturday, Sep 10 2016"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Sep 11 2016"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Sep 11 2016"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Sep 11 2016"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Sep 11 2016"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Sep 11 2016"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Sep 11 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Monday, Sep 12 2016"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Friday, Sep 16 2016"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Saturday, Sep 17 2016"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Saturday, Sep 17 2016"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Sep 18 2016"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Sep 18 2016"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Sep 18 2016"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Sep 18 2016"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Sep 18 2016"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Sep 18 2016"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Sep 18 2016"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Tuesday, Sep 20 2016"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Wednesday, Sep 21 2016"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Wednesday, Sep 21 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Wednesday, Sep 21 2016"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Wednesday, Sep 21 2016"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Wednesday, Sep 21 2016"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Wednesday, Sep 21 2016"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Wednesday, Sep 21 2016"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Wednesday, Sep 21 2016"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Wednesday, Sep 21 2016"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Saturday, Sep 24 2016"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Saturday, Sep 24 2016"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Sep 25 2016"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Sep 25 2016"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Sep 25 2016"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Sep 25 2016"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Sep 25 2016"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Sep 25 2016"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Monday, Sep 26 2016"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Monday, Sep 26 2016"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Saturday, Oct 1 2016"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Saturday, Oct 1 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Oct 2 2016"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Oct 2 2016"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Oct 2 2016"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Oct 2 2016"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Oct 2 2016"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Oct 2 2016"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Oct 2 2016"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Oct 2 2016"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Saturday, Oct 15 2016"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Saturday, Oct 15 2016"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Saturday, Oct 15 2016"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Oct 16 2016"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Oct 16 2016"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Oct 16 2016"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Oct 16 2016"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Oct 16 2016"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Oct 16 2016"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Monday, Oct 17 2016"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Saturday, Oct 22 2016"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Saturday, Oct 22 2016"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Oct 23 2016"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Oct 23 2016"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Oct 23 2016"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Oct 23 2016"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Oct 23 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Oct 23 2016"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Oct 23 2016"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Oct 23 2016"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Tuesday, Oct 25 2016"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Wednesday, Oct 26 2016"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Wednesday, Oct 26 2016"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Wednesday, Oct 26 2016"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Wednesday, Oct 26 2016"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Wednesday, Oct 26 2016"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Wednesday, Oct 26 2016"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Wednesday, Oct 26 2016"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Wednesday, Oct 26 2016"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Thursday, Oct 27 2016"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Saturday, Oct 29 2016"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Saturday, Oct 29 2016"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Oct 30 2016"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Oct 30 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Oct 30 2016"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Oct 30 2016"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Oct 30 2016"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Oct 30 2016"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Monday, Oct 31 2016"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Monday, Oct 31 2016"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Saturday, Nov 5 2016"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Saturday, Nov 5 2016"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Nov 6 2016"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Nov 6 2016"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Nov 6 2016"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Nov 6 2016"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Nov 6 2016"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Nov 6 2016"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Nov 6 2016"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Nov 6 2016"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Saturday, Nov 19 2016"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Saturday, Nov 19 2016"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Saturday, Nov 19 2016"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Nov 20 2016"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Nov 20 2016"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Nov 20 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Nov 20 2016"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Nov 20 2016"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Nov 20 2016"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Nov 20 2016"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Saturday, Nov 26 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Saturday, Nov 26 2016"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Nov 27 2016"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Nov 27 2016"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Nov 27 2016"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Nov 27 2016"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Nov 27 2016"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Nov 27 2016"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Monday, Nov 28 2016"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Monday, Nov 28 2016"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Friday, Dec 2 2016"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Saturday, Dec 3 2016"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Dec 4 2016"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Dec 4 2016"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Dec 4 2016"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Dec 4 2016"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Dec 4 2016"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Dec 4 2016"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Monday, Dec 5 2016"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Monday, Dec 5 2016"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Saturday, Dec 10 2016"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Saturday, Dec 10 2016"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Dec 11 2016"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Dec 11 2016"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Dec 11 2016"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Dec 11 2016"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Dec 11 2016"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Dec 11 2016"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Monday, Dec 12 2016"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Monday, Dec 12 2016"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Thursday, Dec 15 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Saturday, Dec 17 2016"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Saturday, Dec 17 2016"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Saturday, Dec 17 2016"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Dec 18 2016"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Dec 18 2016"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Sunday, Dec 18 2016"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Dec 18 2016"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Dec 18 2016"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Dec 18 2016"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Dec 18 2016"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Tuesday, Dec 20 2016"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Wednesday, Dec 21 2016"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Thursday, Dec 22 2016"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Thursday, Dec 22 2016"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Thursday, Dec 22 2016"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Thursday, Dec 22 2016"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Thursday, Dec 22 2016"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Thursday, Dec 22 2016"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Saturday, Jan 7 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Saturday, Jan 7 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Jan 8 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Jan 8 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Jan 8 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Jan 8 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Jan 8 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Jan 8 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Jan 8 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Sunday, Jan 8 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Saturday, Jan 14 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Saturday, Jan 14 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Jan 15 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Jan 15 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Jan 15 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Sunday, Jan 15 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Jan 15 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Jan 15 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Jan 15 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Monday, Jan 16 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Saturday, Jan 21 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Saturday, Jan 21 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Sunday, Jan 22 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Jan 22 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Jan 22 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Jan 22 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Jan 22 2017"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Jan 22 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Jan 22 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Jan 22 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Saturday, Jan 28 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Saturday, Jan 28 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Jan 29 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Jan 29 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Jan 29 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Jan 29 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Jan 29 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Jan 29 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Jan 29 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Sunday, Jan 29 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Saturday, Feb 4 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Feb 5 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Feb 5 2017"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Feb 5 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Feb 5 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Feb 5 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Feb 5 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Feb 5 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Sunday, Feb 5 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Tuesday, Feb 7 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Wednesday, Feb 8 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Wednesday, Feb 8 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Friday, Feb 10 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Saturday, Feb 11 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Feb 12 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Feb 12 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Feb 12 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Feb 12 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Feb 12 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Feb 12 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Feb 12 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Monday, Feb 13 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Friday, Feb 17 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Saturday, Feb 18 2017"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Saturday, Feb 18 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Feb 19 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Feb 19 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Feb 19 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Feb 19 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Feb 19 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Feb 19 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Feb 19 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Feb 26 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Mar 5 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Mar 12 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Mar 19 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Apr 2 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Apr 9 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Saturday, Apr 15 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, Apr 23 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, Apr 30 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Sunday, May 7 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, May 14 2017"
+},
+{
+	"HomeTeamId": 272,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 80,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 2889,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 87,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 276,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 77,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 277,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 267,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 86,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 278,
+	"Date": "Sunday, May 21 2017"
+},
+{
+	"HomeTeamId": 300,
+	"Date": "Sunday, May 28 2017"
+},
+{
+	"HomeTeamId": 1285,
+	"Date": "Sunday, May 28 2017"
+},
+{
+	"HomeTeamId": 84,
+	"Date": "Sunday, May 28 2017"
+},
+{
+	"HomeTeamId": 71,
+	"Date": "Sunday, May 28 2017"
+},
+{
+	"HomeTeamId": 779,
+	"Date": "Sunday, May 28 2017"
+},
+{
+	"HomeTeamId": 78,
+	"Date": "Sunday, May 28 2017"
+},
+{
+	"HomeTeamId": 271,
+	"Date": "Sunday, May 28 2017"
+},
+{
+	"HomeTeamId": 73,
+	"Date": "Sunday, May 28 2017"
+},
+{
+	"HomeTeamId": 72,
+	"Date": "Sunday, May 28 2017"
+},
+{
+	"HomeTeamId": 75,
+	"Date": "Sunday, May 28 2017"
+}]

@@ -109,8 +109,10 @@
   <ItemGroup>
     <EmbeddedResource Include="TestData\TypyDniaData\response.txt" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="TestData\WhoScoredData\" />
+    <EmbeddedResource Include="TestData\WhoScoredData\matchDetails.txt" />
+    <EmbeddedResource Include="TestData\WhoScoredData\seasonMatches-seriea-2014-2015.txt" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

@@ -157,24 +157,27 @@ namespace TypyDniaApi.Model.Helpers
             if (postsDiv != null)
             {
                 content = postsDiv.InnerHtml;
-                var singleLine = string.Empty;
-                List<int> allIndexes = AllIndexesOf(content, "<br>");
+                content = content.Replace("<b>", "").Replace("</b>", "").Replace("\"", "").Replace("<i>", "").Replace("</i>", "");
+                contentList = content.Split(new string[] { "<br>" }, StringSplitOptions.None).ToList();
 
-                if (allIndexes[0] > 0)
-                {
-                    var firstLine = content.Substring(0, allIndexes[0]);
-                    firstLine = firstLine.Replace("<b>", "").Replace("</b>", "");
-                    contentList.Add(firstLine);
-                }
+                //var singleLine = string.Empty;
+                //List<int> allIndexes = AllIndexesOf(content, "<br>");
 
-                for (int i = 1; i <= allIndexes.Count - 1; i++)
-                {
-                    var startIndex = allIndexes[i - 1] + 4;
-                    var lineLength = allIndexes[i] - startIndex;
-                    singleLine = content.Substring(startIndex, lineLength);
-                    singleLine = singleLine.Replace("<b>", "").Replace("</b>", "").Trim();
-                    contentList.Add(singleLine);
-                }
+                //if (allIndexes[0] > 0)
+                //{
+                //    var firstLine = content.Substring(0, allIndexes[0]);
+                //    firstLine = firstLine.Replace("<b>", "").Replace("</b>", "");
+                //    contentList.Add(firstLine);
+                //}
+
+                //for (int i = 1; i <= allIndexes.Count - 1; i++)
+                //{
+                //    var startIndex = allIndexes[i - 1] + 4;
+                //    var lineLength = allIndexes[i] - startIndex;
+                //    singleLine = content.Substring(startIndex, lineLength);
+                //    singleLine = singleLine.Replace("<b>", "").Replace("</b>", "").Trim();
+                //    contentList.Add(singleLine);
+                //}
             }
             return contentList;
         }
