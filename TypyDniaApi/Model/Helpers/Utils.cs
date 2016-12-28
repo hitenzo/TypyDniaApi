@@ -158,26 +158,12 @@ namespace TypyDniaApi.Model.Helpers
             {
                 content = postsDiv.InnerHtml;
                 content = content.Replace("<b>", "").Replace("</b>", "").Replace("\"", "").Replace("<i>", "").Replace("</i>", "");
-                contentList = content.Split(new string[] { "<br>" }, StringSplitOptions.None).ToList();
+                List<string> contentLines = content.Split(new string[] { "<br>" }, StringSplitOptions.None).ToList();
 
-                //var singleLine = string.Empty;
-                //List<int> allIndexes = AllIndexesOf(content, "<br>");
-
-                //if (allIndexes[0] > 0)
-                //{
-                //    var firstLine = content.Substring(0, allIndexes[0]);
-                //    firstLine = firstLine.Replace("<b>", "").Replace("</b>", "");
-                //    contentList.Add(firstLine);
-                //}
-
-                //for (int i = 1; i <= allIndexes.Count - 1; i++)
-                //{
-                //    var startIndex = allIndexes[i - 1] + 4;
-                //    var lineLength = allIndexes[i] - startIndex;
-                //    singleLine = content.Substring(startIndex, lineLength);
-                //    singleLine = singleLine.Replace("<b>", "").Replace("</b>", "").Trim();
-                //    contentList.Add(singleLine);
-                //}
+                foreach (var contentItem in contentLines)
+                {
+                    contentList.Add(contentItem.Trim());
+                }
             }
             return contentList;
         }
@@ -227,8 +213,7 @@ namespace TypyDniaApi.Model.Helpers
         public static DateTime GetPostDate(HtmlNode postNode)
         {
             //todo
-
-            var postDate = new DateTime(2016, 02, 03);
+            DateTime postDate;
 
             HtmlNode detailsTd =
                 postNode.Descendants()
