@@ -21,7 +21,7 @@ namespace MatchDownloader.Model
             _cfg = cfg;
         }
 
-        public string Perform()
+        public string DownloadSeasonMatches()
         {
             List<Task<string>> taskList = _downloader.GetDownloadTasks();
             List<string> results = new List<string>();

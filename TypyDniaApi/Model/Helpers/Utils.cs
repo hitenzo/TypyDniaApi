@@ -213,7 +213,7 @@ namespace TypyDniaApi.Model.Helpers
         public static DateTime GetPostDate(HtmlNode postNode)
         {
             //todo
-            DateTime postDate;
+            DateTime postDate = new DateTime();
 
             HtmlNode detailsTd =
                 postNode.Descendants()

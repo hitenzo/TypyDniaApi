@@ -1,5 +1,7 @@
-﻿using System.Globalization;
+﻿using System;
+using System.Globalization;
 using System.IO;
+using System.Linq;
 using System.Threading;
 using Newtonsoft.Json.Linq;
 using NUnit.Framework;
@@ -34,8 +36,7 @@ namespace TypyDniaApi.Tests.IntegrationTests
         [Test]
         public void TestGetTable()
         {
-            //porownoj sobie dane jakie otrzymasz z jakimis randomowymi jakie sam wymyslisz albo poprawnymi,
-            //powinny byc poprawne i zahardkodowane np. w jakims pliku jsonowym/xmlowym.
+            //todo
         }
 
         [Test]
@@ -50,7 +51,14 @@ namespace TypyDniaApi.Tests.IntegrationTests
             dynamic actualJson = JObject.Parse(returnedDay);
             var actualPosts = (JArray)actualJson["Posts"];
 
-            Assert.AreEqual(expectedPosts, actualPosts);
+            Assert.AreEqual(expectedPosts.Children().Count(), actualPosts.Children().Count());
+
+            var rnd = new Random();
+            int postNum = rnd.Next(0, actualPosts.Children().Count());
+            var expectedPrediction = expectedPosts[postNum]["Prediction"];
+            var actualPrediction = actualPosts[postNum]["Prediction"];
+
+            Assert.AreEqual(expectedPrediction, actualPrediction);
         }
 
         [Test]

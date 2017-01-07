@@ -138,7 +138,7 @@ namespace TypyDniaApi.Model.MatchObjects
                         IWebElement newFirstMatch = wait.Until(x => x.FindElements(By.CssSelector(Selectors.GetSelector("MatchesInDetails")))
                         .FirstOrDefault());
 
-                        string newFirstMatchHtml = wait.Until(x => newFirstMatch.GetAttribute("innerHTML"));
+                        string newFirstMatchHtml = newFirstMatch.GetAttribute("innerHTML");
                         if (firstMatchHtml != newFirstMatchHtml)
                         {
                             isChanged = false;

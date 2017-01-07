@@ -38,32 +38,36 @@ namespace TypyDniaApi.Tests.IntegrationTests
         public void TestGetMatchDetails()
         {
             string expectedMatchDetails = EmbeddedData.AsString("matchDetails.txt");
-            dynamic expectedJson = JObject.Parse(expectedMatchDetails);
+            var expectedJson = JObject.Parse(expectedMatchDetails);
 
-            var testMatchRequest = new MatchRequest();
-            testMatchRequest.HomeTeamId = 75;
-            testMatchRequest.Date = "30-10-16";
+            var testMatchRequest = new MatchRequest
+            {
+                HomeTeamId = 75,
+                Date = "30-10-16"
+            };
 
             string actualMatchDetails = _controller.GetMatchDetails(testMatchRequest);
-            dynamic actualJson = JObject.Parse(actualMatchDetails);
+            var actualJson = JObject.Parse(actualMatchDetails);
 
-            Assert.AreEqual(expectedJson.Data, actualJson.Data);
+            Assert.AreEqual(expectedJson.ToString(), actualJson.ToString());
         }
 
         [Test]
         public void TestGetSeasonMatches()
         {
-            string expectedSeasonRequests = EmbeddedData.AsString("seasonMatches-seriea-2014-2015.txt");
-            dynamic expectedJson = JObject.Parse(expectedSeasonRequests);
+            string expectedSeasonRequests = EmbeddedData.AsString("seasonMatches-seriea-2016-2017.txt");
+            var expectedJson = JArray.Parse(expectedSeasonRequests);
 
-            var testSeasonRequest = new SeasonRequest();
-            testSeasonRequest.League = "Serie A";
-            testSeasonRequest.Years = "2014/2015";
+            var testSeasonRequest = new SeasonRequest
+            {
+                League = "Serie A",
+                Years = "2016/2017"
+            };
 
             string actualSeasonRequests = _controller.GetSeasonMatches(testSeasonRequest);
-            dynamic actualJson = JObject.Parse(actualSeasonRequests);
+            var actualJson = JArray.Parse(actualSeasonRequests);
 
-            Assert.AreEqual(expectedJson.Data, actualJson.Data);
+            Assert.AreEqual(expectedJson.ToString(), actualJson.ToString());
         }
     }
 }

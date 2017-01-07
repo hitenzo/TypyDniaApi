@@ -21,9 +21,9 @@ namespace MatchDownloader.Model
         public void Save(string content)
         {
             var jss = new JavaScriptSerializer();
-            dynamic deserializedData = jss.Deserialize<dynamic>(content);
+            var deserializedData = jss.Deserialize<dynamic>(content);
 
-            dynamic matchDetailsJson = JObject.Parse(deserializedData);
+            var matchDetailsJson = JObject.Parse(deserializedData);
             string homeTeam = matchDetailsJson["HomeTeam"].ToString();
             string awayTeam = matchDetailsJson["AwayTeam"].ToString();
             string matchDate = matchDetailsJson["Date"].ToString();
